@@ -1,0 +1,50 @@
+Found 12 sink. 
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#389 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Daemons/ftpd.cpp#195 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#387 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#386 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#534 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Daemons/ftpd.cpp#116 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Daemons/ftpd.cpp#124 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#392 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/optixspreader.cpp#197 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/optixspreader.cpp#181 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#514 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#520 
+\"strlen((const char *)sc)\"
+
+
+Found 4 methods. 
+28.252307692307692: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Spreaders/lsasspreader.cpp#326 
+\"bool rootlsass (exploitinfo exinfo)\"
+
+8.495238095238095: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Bot/sniffer.cpp#84 
+\"WINAPI psniff (LPVOID param)\"
+
+3.6989247311827955: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Daemons/tftpd.cpp#60 
+\"WINAPI tftpd_handler (LPVOID param)\"
+
+3.2027027027027026: /home/D_K/BA/theZoo2/DopeBotv0.22_UnCrippled_Feb2007/DopeBot v0.22 UnCrippled- Feb 2007/Daemons/tftpd.cpp#7 
+\"WINAPI tftpd (LPVOID param)\"

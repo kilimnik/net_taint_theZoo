@@ -1,0 +1,21 @@
+  [9999D[7C[9999D[0Jjoern> importCode.c(inputPath="/home/D_K/BA/theZoo2/Carberp", "Carberp") [9999D[65C[7C
+Creating project `Carberp` for code at `/home/D_K/BA/theZoo2/Carberp`
+Project with name Carberp already exists - overwriting
+moving cpg.bin.zip to cpg.bin because it is already a database file
+Creating working copy of CPG to be safe
+Loading base CPG from: /home/D_K/BA/workspace/Carberp/cpg.bin.tmp
+Code successfully imported. You can now query it using `cpg`.
+For an overview of all imported code, type `workspace`.
+Adding default overlays to base CPG
+2022-01-27 12:19:59.855 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345619129397]
+2022-01-27 12:19:59.857 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345619129398]
+2022-01-27 12:19:59.880 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345619962497]
+2022-01-27 12:19:59.880 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345619962498]
+2022-01-27 12:19:59.887 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345620270674]
+2022-01-27 12:19:59.888 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345620270675]
+2022-01-27 12:19:59.891 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345620413156]
+2022-01-27 12:19:59.891 WARN MethodDecoratorPass: Parameter without method encountered: io.shiftleft.codepropertygraph.generated.nodes.MethodParameterIn[label=METHOD_PARAMETER_IN; id=3074457345620413157]
+The graph has been modified. You may want to use the `save` command to persist changes to disk.  All changes will also be saved collectively on exit
+res0: Cpg = io.shiftleft.codepropertygraph.generated.Cpg@19586bf2
+
+[9999D[0Jjoern>

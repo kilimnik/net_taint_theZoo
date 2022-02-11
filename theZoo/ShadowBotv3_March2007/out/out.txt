@@ -1,0 +1,27 @@
+Found 41 nodes.
+Found 4 sink. 
+26.0: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/ShadowBotDLL.cpp#111 
+\"strcpy(fileto,rndx(6))\"
+
+9.0: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/ShadowBotDLL.cpp#155 
+\"strlen (buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/ShadowBotDLL.cpp#157 
+\"strlen (buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/ShadowBotDLL.cpp#160 
+\"strlen (buffer)\"
+
+Found 4 methods. 
+11.571428571428571: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/ShadowBotDLL.cpp#82 
+\"void iparse (char *commands)\"
+
+0.6052631578947368: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/ShadowBotDLL.cpp#125 
+\"WINAPI ircmain (void*)\"
+
+0.5714285714285714: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/ShadowBotDLL.cpp#47 
+\"int getthisshit (char *link,char *exxe)\"
+
+0.0: /home/D_K/BA/theZoo2/ShadowBotv3_March2007/ShadowBot v3 - March 2007/shadowdll/inc.h#25 
+\"int getthisshit (char *link,char *exxe)\"
+

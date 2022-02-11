@@ -1,0 +1,50 @@
+Found 12 sink. 
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Daemons/ftpd.cpp#131 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#389 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#520 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#514 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#387 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/optixspreader.cpp#181 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#392 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/optixspreader.cpp#197 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Daemons/ftpd.cpp#139 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#534 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Daemons/ftpd.cpp#210 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#386 
+\"strlen(hostipc)\"
+
+
+Found 4 methods. 
+28.252307692307692: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Spreaders/lsasspreader.cpp#326 
+\"bool rootlsass (exploitinfo exinfo)\"
+
+8.495238095238095: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Bot/sniffer.cpp#99 
+\"WINAPI psniff (LPVOID param)\"
+
+3.6989247311827955: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Daemons/tftpd.cpp#75 
+\"WINAPI tftpd_handler (LPVOID param)\"
+
+3.2465753424657535: /home/D_K/BA/theZoo2/DopeBot.B_Dec2004/DopeBot.B - Dec 2004/Daemons/tftpd.cpp#22 
+\"WINAPI tftpd (LPVOID param)\"

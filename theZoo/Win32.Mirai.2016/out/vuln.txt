@@ -1,0 +1,161 @@
+Found 18 sink. 
+17.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#445 
+\"strcpy(conn->info.writedir, pch)\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#497 
+\"strcpy(conn->info.arch, \"arm\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#503 
+\"strcpy(conn->info.arch, \"mips\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#512 
+\"strcpy(conn->info.arch, \"ppc\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#501 
+\"strcpy(conn->info.arch, \"mpsl\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#510 
+\"strcpy(conn->info.arch, \"m68k\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/server.c#302 
+\"strcpy(conn->output_buffer.data, \"\\r\\n\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/server.c#540 
+\"strcpy(conn->info.arch, (conn->info.arch[3] == '\\0' ? \"arm7\" : \"arm\"))\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#514 
+\"strcpy(conn->info.arch, \"sh4\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/server.c#292 
+\"strcpy(conn->output_buffer.data, \"\\r\\n\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#506 
+\"strcpy(conn->info.arch, \"x86\")\"
+
+16.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#508 
+\"strcpy(conn->info.arch, \"spc\")\"
+
+11.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_app.c#665 
+\"strcpy(conn->method, \"GET\")\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#106 
+\"strlen(bufStr)\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#110 
+\"strlen(bufStr)\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#435 
+\"strlen(pch)\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#125 
+\"strlen(tmpStr)\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#105 
+\"strlen(bufStr)\"
+
+
+Found 35 methods. 
+166.78861788617886: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_app.c#26 
+\"void attack_app_http (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+63.51048951048951: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#465 
+\"int connection_consume_arch (struct connection *conn)\"
+
+62.686732186732186: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/scanner.c#57 
+\"void scanner_init (void)\"
+
+56.77431906614786: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/server.c#184 
+\"void handle_event (struct server_worker *wrker,struct epoll_event *ev)\"
+
+56.149253731343286: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#100 
+\"int matchPrompt (char *bufStr)\"
+
+50.08510638297872: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/scanner.c#788 
+\"int consume_user_prompt (struct scanner_connection *conn)\"
+
+48.70967741935484: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/scanner.c#768 
+\"int consume_any_prompt (struct scanner_connection *conn)\"
+
+44.92086330935252: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_udp.c#230 
+\"void attack_udp_dns (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+38.75: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/scanner.c#818 
+\"int consume_pass_prompt (struct scanner_connection *conn)\"
+
+29.69943820224719: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_tcp.c#293 
+\"void attack_tcp_stomp (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+29.31192660550459: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_gre.c#162 
+\"void attack_gre_eth (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+28.36802973977695: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_tcp.c#18 
+\"void attack_tcp_syn (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+27.760416666666668: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_gre.c#20 
+\"void attack_gre_ip (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+25.46938775510204: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_udp.c#129 
+\"void attack_udp_vse (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+25.026315789473685: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#573 
+\"int connection_upload_echo (struct connection *conn)\"
+
+23.596153846153847: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/scanner.c#706 
+\"int consume_iacs (struct scanner_connection *conn)\"
+
+21.387096774193548: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/resolv.c#46 
+\"void resolv_skip_name (uint8_t *reader,uint8_t *buffer,int *count)\"
+
+19.6340206185567: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_udp.c#25 
+\"void attack_udp_generic (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+17.71794871794872: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/resolv.c#67 
+\"struct resolv_entries resolv_lookup (char *domain)\"
+
+16.52140077821012: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/attack_tcp.c#161 
+\"void attack_tcp_ack (uint8_t targs_len,struct attack_target *targs,uint8_t opts_len,struct attack_option *opts)\"
+
+16.071428571428573: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/scanner.c#37 
+\"int recv_strip_null (int sock,void *buf,int len,int flags)\"
+
+15.769347496206374: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#334 
+\"void* flood (void *par1)\"
+
+15.181818181818182: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#218 
+\"void* memmem (const void *l,size_t l_len,const void *s,size_t s_len)\"
+
+14.333333333333334: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/util.c#12 
+\"void hexDump (char *desc,void *addr,int len)\"
+
+13.36: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#414 
+\"int connection_consume_written_dirs (struct connection *conn)\"
+
+9.541666666666666: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/tools/single_load.c#166 
+\"int log_recv (int sock,void *buf,int len,int flags)\"
+
+8.0: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/util.c#111 
+\"int util_memsearch (char *buf,int buf_len,char *mem,int mem_len)\"
+
+7.603448275862069: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/main.c#47 
+\"int main (int argc,char **args)\"
+
+7.447368421052632: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/checksum.c#24 
+\"uint16_t checksum_tcpudp (struct iphdr *iph,void *buff,uint16_t data_len,int len)\"
+
+5.814814814814815: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/rand.c#32 
+\"void rand_str (char *str,int len)\"
+
+5.7407407407407405: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/resolv.c#21 
+\"void resolv_domain_to_hostname (char *dst_hostname,char *src_domain)\"
+
+4.958333333333333: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/scanner.c#646 
+\"void setup_connection (struct scanner_connection *conn)\"
+
+4.6: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/rand.c#56 
+\"void rand_alphastr (uint8_t *str,int len)\"
+
+3.6363636363636362: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/mirai/bot/resolv.c#230 
+\"void resolv_entries_free (struct resolv_entries *entries)\"
+
+2.3333333333333335: /home/D_K/BA/theZoo2/Win32.Mirai.2016/Mirai-Source-Code/loader/src/connection.c#630 
+\"int connection_verify_payload (struct connection *conn)\"

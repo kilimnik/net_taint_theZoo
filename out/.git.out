@@ -1,0 +1,70 @@
+  [9999D[7C[9999D[0Jjoern> importCode.c(inputPath="/home/D_K/BA/theZoo2/.git", ".git") [9999D[59C[7C
+Creating project `.git` for code at `/home/D_K/BA/theZoo2/.git`
+Project with name .git already exists - overwriting
+moving cpg.bin.zip to cpg.bin because it is already a database file
+Creating working copy of CPG to be safe
+Loading base CPG from: /home/D_K/BA/workspace/.git/cpg.bin.tmp
+Code successfully imported. You can now query it using `cpg`.
+For an overview of all imported code, type `workspace`.
+Adding default overlays to base CPG
+The graph has been modified. You may want to use the `save` command to persist changes to disk.  All changes will also be saved collectively on exit
+res0: Cpg = io.shiftleft.codepropertygraph.generated.Cpg@163b8acc
+
+[9999D[0Jjoern> runScript("/home/D_K/BA/net_taint/find.sc", Map(), cpg) [9999D[55C[7C
+[34mCompiling (synthetic)/ammonite/predef/ArgsPredef.sc[39m
+[34mCompiling /home/D_K/BA/(console)[39m
+[34mCompiling /home/D_K/BA/net_taint/find.sc[39m
+[INFO] [STATUS]: Search sourceOperations
+[DEBUG]: HashMap(recv -> [Lammonite.$file.net_taint.find$OperationValue;@1adc1bc0, InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@bb05b49, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@7b692e5c, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@64f2b285, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@1e0ab7c0, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@1769cd5b, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation HttpQueryInfoA
+[TIME] [getCreatedSourceFunctions]: took 0.011448318 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 0.014882465 seconds
+[DEBUG]: HashMap(InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@bb05b49, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@7b692e5c, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@64f2b285, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@1e0ab7c0, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@1769cd5b, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation recv
+[TIME] [getCreatedSourceFunctions]: took 8.3958E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 3.822E-5 seconds
+[DEBUG]: HashMap(InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@7b692e5c, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@64f2b285, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@1e0ab7c0, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@1769cd5b, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation InternetReadFileExA
+[TIME] [getCreatedSourceFunctions]: took 1.61369E-4 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5122E-5 seconds
+[DEBUG]: HashMap(HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@64f2b285, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@1e0ab7c0, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@1769cd5b, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation InternetReadFile
+[TIME] [getCreatedSourceFunctions]: took 1.17661E-4 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.929E-5 seconds
+[DEBUG]: HashMap(recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@1e0ab7c0, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@1769cd5b, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation HttpQueryInfoW
+[TIME] [getCreatedSourceFunctions]: took 8.0425E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.9283E-5 seconds
+[DEBUG]: HashMap(HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@1769cd5b, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation recvfrom
+[TIME] [getCreatedSourceFunctions]: took 8.4097E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.4655E-5 seconds
+[DEBUG]: HashMap(InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation HttpQueryInfo
+[TIME] [getCreatedSourceFunctions]: took 9.4302E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.2793E-5 seconds
+[DEBUG]: HashMap(WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[DEBUG]: Current Operation InternetReadFileExW
+[TIME] [getCreatedSourceFunctions]: took 8.3963E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.2335E-5 seconds
+[DEBUG]: HashMap()
+[DEBUG]: Current Operation WSARecvEx
+[TIME] [getCreatedSourceFunctions]: took 8.5324E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.7797E-5 seconds
+[INFO] [SIZE]: 9
+[DEBUG] [Operations]: HashMap(HttpQueryInfoA -> [Lammonite.$file.net_taint.find$OperationValue;@731f054f, recv -> [Lammonite.$file.net_taint.find$OperationValue;@1adc1bc0, InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@bb05b49, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@7b692e5c, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@64f2b285, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@1e0ab7c0, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@1769cd5b, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@25401a24, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@5457e293)
+[TIME] [sourceOperations]: took 0.109423701 seconds
+java.lang.RuntimeException: No sources found!
+  ammonite.$file.net_taint.find$.<clinit>(find.sc:1336)
+
+
+[9999D[0Jjoern>

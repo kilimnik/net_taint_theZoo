@@ -1,0 +1,492 @@
+Found 6312 nodes.
+Found 97 sink. 
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1594 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1581 
+\"strlen(a[s+2])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1380 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1373 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1373 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#391 
+\"strlen(file)\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1581 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1380 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1581 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1594 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1594 
+\"strlen(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1597 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1291 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1564 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1449 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1290 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1598 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1432 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1289 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1412 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1480 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1510 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1542 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1584 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1406 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1432 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#953 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1419 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1412 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1616 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#918 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1597 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1428 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1419 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1522 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1449 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1580 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1234 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1295 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1566 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1096 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1440 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1611 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1295 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1419 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1753 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1593 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1440 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1391 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1583 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1285 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1424 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1428 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1297 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1618 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1617 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1412 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1285 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1621 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1286 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1432 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1428 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1288 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1424 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1406 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1583 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1424 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1096 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#918 
+\"atoi(a[s+1])\"
+
+21.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#69 
+\"strcpy(file,file_to_send)\"
+
+21.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1131 
+\"strcpy(pStorInfo.chan,a[2])\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1953 
+\"strlen(msgbuf)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#927 
+\"strlen(httpd.dir)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#158 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#928 
+\"strlen(httpd.dir)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#690 
+\"strlen(ih)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#73 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#801 
+\"strlen(aliases[i].name)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#690 
+\"strlen(newnck)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1923 
+\"strlen(msgbuf)\"
+
+19.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#157 
+\"strlen(file)\"
+
+18.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1273 
+\"atoi(a[i])\"
+
+14.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#67 
+\"strlen(rBuffer)\"
+
+14.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/pnp.cpp#418 
+\"strlen((char*)tmp)\"
+
+14.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#73 
+\"strlen(httpd.dir)\"
+
+11.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/netutils.cpp#215 
+\"strcpy((char *)sServer,(char*)&(infobuf[i+1]))\"
+
+11.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/netutils.cpp#214 
+\"strcpy((char *)sWorkgroup,(char*)&(infobuf[i+1]))\"
+
+11.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/netutils.cpp#216 
+\"strcpy((char *)sOS,(char*)&(infobuf[i+1]))\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#64 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sasser.cpp#100 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sasser.cpp#77 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#727 
+\"strlen(nick1)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#725 
+\"strlen(nick1)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#472 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#416 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1968 
+\"strlen(newstr)\"
+
+9.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sasser.cpp#83 
+\"strlen(szBuffer)\"
+
+Found 66 methods. 
+1293.9715656046592: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#526 
+\"int irc_parseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,char *server,char masters[][128],char *host,int *in_channel,int repeat)\"
+
+43.354838709677416: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/threads.cpp#7 
+\"int addthread (char *name,int id,SOCKET sock)\"
+
+31.48148148148148: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/threads.cpp#155 
+\"void clearthread (int threadnum)\"
+
+20.291044776119403: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/advscan.cpp#85 
+\"void CheckServers (ADVSCAN scan)\"
+
+17.85185185185185: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/netutils.cpp#110 
+\"int fphost (char *sHost,int iFpType)\"
+
+17.625: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/fphost.cpp#23 
+\"bool MemContains1 (const char *pMem,const int iMemLen,const char *pSearch,const int iSearchLen)\"
+
+17.142857142857142: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/hostauth.cpp#118 
+\"int HostMaskMatch (char *h)\"
+
+15.333333333333334: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#389 
+\"char* File_To_HTML (char *file)\"
+
+15.242424242424242: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#143 
+\"int Check_Requested_File (SOCKET sock,char *dir,char *rFile,BOOL dirinfo,int threadnum)\"
+
+13.438095238095238: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/advscan.cpp#376 
+\"WINAPI AdvScanner (LPVOID param)\"
+
+12.87037037037037: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/pnp.cpp#315 
+\"BOOL pnp (EXINFO exinfo)\"
+
+11.78048780487805: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/hostauth.cpp#4 
+\"int wildcardfit (char *wildcard,char *test)\"
+
+11.414201183431953: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/MS05-039-pp.cpp#200 
+\"BOOL ppexploit (EXINFO exinfo)\"
+
+11.221052631578948: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#389 
+\"WINAPI irc_connect (LPVOID param)\"
+
+11.094202898550725: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#7 
+\"WINAPI HTTP_Server_Thread (LPVOID param)\"
+
+10.597989949748744: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/tftpd.cpp#7 
+\"WINAPI TftpdThread (LPVOID param)\"
+
+9.368: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/socks.cpp#61 
+\"WINAPI Socks4ClientThread (LPVOID param)\"
+
+8.982142857142858: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/advscan.cpp#215 
+\"BOOL SynPortOpen (unsigned long src_ip,unsigned long dest_ip,unsigned int port,unsigned int delay)\"
+
+7.536585365853658: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#457 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,SOCKET hsock,char *hchannel,char *server,BYTE spy)\"
+
+5.891304347826087: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/socks.cpp#7 
+\"WINAPI Socks4Thread (LPVOID param)\"
+
+3.4: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/ms04_007_asn1.cpp#476 
+\"bool ExploitSMBNT (SOCKET nFDSocket,BitString BitToken)\"
+
+2.857142857142857: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/pnp.cpp#253 
+\"void convert_name (char *out,char *name)\"
+
+2.6884057971014492: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sasser.cpp#40 
+\"BOOL sasser (EXINFO exinfo)\"
+
+2.3870967741935485: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/socks.cpp#160 
+\"void TransferLoop (SOCKET tsock,SOCKET csock)\"
+
+2.2941176470588234: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/fphost.cpp#32 
+\"int FpHost (const char *szHost,int iFpType)\"
+
+1.7837837837837838: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/httpd.cpp#398 
+\"void HTTP_Connect (SOCKET sock,char *chan,BOOL notice,BOOL silent,char *host,int port,char *method,char *url,char *referer)\"
+
+1.6666666666666667: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/threads.cpp#137 
+\"void stopthread (SOCKET sock,char *chan,BOOL notice,BOOL silent,char *name,char *desc,int threadid,char *thread)\"
+
+1.4895104895104896: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sniffer.cpp#121 
+\"WINAPI SniffThread (LPVOID param)\"
+
+0.8888888888888888: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/threads.cpp#93 
+\"int killthreadid (int threadid,int threadnum)\"
+
+0.7959183673469388: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1957 
+\"char* replacestr (char *str,char *oldstr,char *newstr)\"
+
+0.6666666666666666: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1917 
+\"void irc_send (SOCKET sock,char *msg)\"
+
+0.6341463414634146: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/MS05-039-pp.cpp#157 
+\"bool ConnectShell2 (EXINFO exinfo)\"
+
+0.5416666666666666: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/pnp.cpp#267 
+\"bool ConnectShell2 (EXINFO exinfo)\"
+
+0.5294117647058824: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/netapi.cpp#362 
+\"BOOL ConnectShell (EXINFO exinfo,unsigned short connectport)\"
+
+0.5: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1945 
+\"void irc_privmsg (SOCKET sock,char *dest,char *msg,BOOL notice)\"
+
+0.45454545454545453: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#373 
+\"int addalias (char *name,char *command)\"
+
+0.4444444444444444: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/threads.cpp#113 
+\"int findthreadid (int threadid)\"
+
+0.2804878048780488: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/ftpd.cpp#16 
+\"WINAPI ftpd (LPVOID pParam)\"
+
+0.21739130434782608: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/ms04_007_asn1.cpp#322 
+\"int MyRecv (SOCKET nFDSocket,char *pBuffer,int nLen,int nFlags)\"
+
+0.1984126984126984: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/vncrooter.cpp#96 
+\"BOOL VNCExploit (EXINFO exinfo)\"
+
+0.1651376146788991: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/dcom.cpp#225 
+\"BOOL dcom (EXINFO exinfo)\"
+
+0.0975609756097561: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/hostauth.cpp#76 
+\"int asterisk (char **wildcard,char **test)\"
+
+0.04310344827586207: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/download.cpp#6 
+\"WINAPI webdownload (LPVOID param)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/advscan.h#69 
+\"void ListExploitStats (SOCKET sock,char *chan,BOOL notice)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/identd.cpp#6 
+\"WINAPI ident (LPVOID param)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#358 
+\"void addlog (char *desc)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/misc.h#4 
+\"int Split (char *inStr,void *saveArray)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#2018 
+\"char* sysinfo (char *sinfo)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/firefox.cpp#360 
+\"void DumpSignonSecrets (char *profilePath,SOCKET sock,char *dest,BOOL notice)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/processes.cpp#131 
+\"int listProcesses (SOCKET sock,char *chan,BOOL notice,char *proccess,BOOL killthread,BOOL full)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/netutils.h#2 
+\"char* GetIP (SOCKET sock)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/firefox.cpp#54 
+\"int FindFirefoxPasses (SOCKET sock,char *dest,BOOL notice)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/driveinfo.cpp#87 
+\"void DriveSpace (SOCKET sock,char *chan,BOOL notice,LPCSTR Drive)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1936 
+\"void irc_sendf2 (SOCKET sock,char *msg,char *str,char *str2)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/threads.h#71 
+\"int killProcess (int pid)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/rndnick.cpp#109 
+\"char* prefixnick (SOCKET sock,char *strbuf)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/advscan.h#71 
+\"void CheckServers (ADVSCAN scan)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/fphost.h#31 
+\"bool MemContains (const char *pMem,const int iMemLen,const char *pSearch,const int iSearchLen)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/driveinfo.cpp#103 
+\"void DriveInfo (SOCKET sock,char *chan,BOOL notice,LPCSTR Drive)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1985 
+\"char* netinfo (char *ninfo,char *host,SOCKET sock)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/misc.h#3 
+\"BOOL mirccmd (char *cmd)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1781 
+\"int irc_spyparseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,SOCKET hsock,char *hchannel,char *server)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/sdbot05b.cpp#1927 
+\"void irc_sendf (SOCKET sock,char *msg,char *str)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/ms04_007_asn1.cpp#358 
+\"bool ExploitSMB (SOCKET nFDSocket,BitString BitToken)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/rndnick.cpp#131 
+\"char* rndnick (SOCKET sock,char *strbuf,int type,BOOL prefix,char *name)\"
+
+0.0: /home/D_K/BA/theZoo2/LoexBot1.3_Sep2008/LoexBot1.3 - Sep 2008/FlashFxp.h#2 
+\"int FlashFXP (int parse,SOCKET sock,char *dest,BOOL notice)\"
+

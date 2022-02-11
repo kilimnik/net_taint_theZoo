@@ -1,0 +1,345 @@
+Found 3747 nodes.
+Found 102 sink. 
+27.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5925 
+\"strcpy( cf.szFaceName, \"MS Sans Serif\" )\"
+
+27.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5968 
+\"strcpy( cf.szFaceName, \"MS Sans Serif\" )\"
+
+27.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5949 
+\"strcpy( cf.szFaceName, \"MS Sans Serif\" )\"
+
+26.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#2101 
+\"lstrcpy(Head.PRIORITY, \"Normal\")\"
+
+26.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#2109 
+\"lstrcpy(Head.PRIORITY, \"High\")\"
+
+26.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#2105 
+\"lstrcpy(Head.PRIORITY, \"Low\")\"
+
+26.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#2086 
+\"lstrcpy(Head.Data, proc32.szExeFile)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#7059 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6487 
+\"strcpy(Window.IP, Head.Buf)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6854 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6597 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6565 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6654 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6676 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6731 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6879 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6456 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6762 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6932 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6903 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6537 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6993 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#7025 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6626 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+22.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6964 
+\"strcpy(WINDOWIP, Window.IP)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6754 
+\"strcpy(Window.ID, Head.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6687 
+\"strcpy(Head.Data, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6627 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5953 
+\"strcpy(Buffer, \"[\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3656 
+\"strcpy(FileBuf, Recv.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6905 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3574 
+\"strcpy(Head.Data, \"CMD Running\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#7061 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6723 
+\"strcpy(Window.ID, Head.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3746 
+\"strcpy(Buf2, Recv.Buf2)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6618 
+\"strcpy(Window.ID, Head.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6539 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6995 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6489 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6522 
+\"strcpy(Head.Data, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6467 
+\"strcpy(Head.Data, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#7027 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6934 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6678 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6764 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6589 
+\"strcpy(Window.ID, Head.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6598 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6733 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6881 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6557 
+\"strcpy(Window.ID, Head.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6656 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5933 
+\"strcpy(Buffer, \"\\r\\n \\r\\n[\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6479 
+\"strcpy(Window.ID, Head.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6856 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3607 
+\"strcpy(Head.Data, \"Computer Shutdown\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5846 
+\"strcpy(ConnectionsA, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6448 
+\"strcpy(Window.ID, Head.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6458 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6324 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3745 
+\"strcpy(Buf, Recv.Buf)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3581 
+\"strcpy(Head.Data, Recv.Data)\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5859 
+\"strcpy(ConnectionsA, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6966 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6293 
+\"strcpy(Buffer, \"\")\"
+
+16.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6567 
+\"strcpy(Buffer, \"\")\"
+
+14.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5935 
+\"strlen(Buffer)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6620 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6836 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6871 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6796 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3767 
+\"atoi(Recv.IDS)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6543 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6895 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6955 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6755 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6753 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6450 
+\"atoi(Window.ID)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#7048 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6591 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6833 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6725 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6481 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6590 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6558 
+\"atoi(Window.ID)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#7016 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6821 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6619 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6784 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6722 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6531 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6559 
+\"atoi(Window.ID)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6808 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6698 
+\"atoi (Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6756 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6724 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6669 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6923 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#7049 
+\"atoi (Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6846 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6670 
+\"atoi(Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6646 
+\"atoi (Head.Data)\"
+
+13.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#6984 
+\"atoi(Head.Data)\"
+
+Found 12 methods. 
+89.53566433566434: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#5501 
+\"CALLBACK MainProc (HWND Dlg,UINT message,WPARAM wParam,LPARAM lParam)\"
+
+38.91544117647059: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#783 
+\"CALLBACK FileConnectProc (HWND hwnd,UINT message,WPARAM wParam,LPARAM lParam)\"
+
+31.3125: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#2068 
+\"int SendTask (int ID)\"
+
+20.732704402515722: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3500 
+\"CALLBACK MainWndProc (HWND hwnd,UINT Mes,WPARAM wParam,LPARAM lParam)\"
+
+9.142857142857142: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#341 
+\"void SetLogs (char * Time,char * Operation,char * Information,char * Success)\"
+
+4.289719626168225: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#3140 
+\"WINAPI Shell (LPVOID lParam)\"
+
+2.9146341463414633: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#2178 
+\"CALLBACK FileWndProc (HWND hwnd,UINT Mes,WPARAM wParam,LPARAM lParam)\"
+
+1.6166666666666667: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/upnpnat.cpp#429 
+\"bool add_port_mapping (char * _description,char * _destination_ip,unsigned short int _port_ex,unsigned short int _port_in,char * _protocal)\"
+
+1.0921052631578947: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/upnpnat.cpp#172 
+\"bool discovery ()\"
+
+0.5945945945945946: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/upnpnat.cpp#240 
+\"bool get_description ()\"
+
+0.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/Client/main.cpp#410 
+\"void CloseSocket (HWND hwnd)\"
+
+0.0: /home/D_K/BA/theZoo2/AryanRAT_March2010/ServerA/main.cpp#2025 
+\"BOOL ShowTasks (int ID)\"
+

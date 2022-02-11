@@ -1,0 +1,69 @@
+Found 622 nodes.
+Found 12 sink. 
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#386 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/optixspreader.cpp#197 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/optixspreader.cpp#181 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Daemons/ftpd.cpp#195 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#392 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#387 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Daemons/ftpd.cpp#124 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#514 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#520 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#534 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#389 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Daemons/ftpd.cpp#116 
+\"strlen(szBuffer)\"
+
+Found 10 methods. 
+28.252307692307692: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/lsasspreader.cpp#326 
+\"bool rootlsass (exploitinfo exinfo)\"
+
+8.495238095238095: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Bot/sniffer.cpp#84 
+\"WINAPI psniff (LPVOID param)\"
+
+3.6989247311827955: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Daemons/tftpd.cpp#60 
+\"WINAPI tftpd_handler (LPVOID param)\"
+
+3.2027027027027026: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Daemons/tftpd.cpp#7 
+\"WINAPI tftpd (LPVOID param)\"
+
+1.4709302325581395: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Spreaders/optixspreader.cpp#22 
+\"bool rootoptix (exploitinfo exinfo)\"
+
+0.7450980392156863: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Bot/bt1.cpp#853 
+\"WINAPI irc_main (LPVOID param)\"
+
+0.5798319327731093: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Daemons/ftpd.cpp#92 
+\"WINAPI ftpd_handler (LPVOID param)\"
+
+0.38461538461538464: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Bot/transfer.cpp#7 
+\"bool shell_getfile (SOCKET bsock,char *szIP,int iPort)\"
+
+0.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Bot/Protocol/irc.h#6 
+\"void irc_msg (SOCKET bsock,char *szAction,char *szDestination,char *szMessage)\"
+
+0.0: /home/D_K/BA/theZoo2/DopeBotv0.22_CrippledFeb2007/DopeBot v0.22 Crippled- Feb 2007/Bot/Protocol/irc.h#8 
+\"void line_parse (SOCKET bsock,WSAEVENT event,char *szBuffer)\"
+

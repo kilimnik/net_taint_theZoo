@@ -1,0 +1,179 @@
+Found 43 sink. 
+24.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#577 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1346 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1346 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1358 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1358 
+\"strlen(a[s])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1615 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1439 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1614 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1584 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#717 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1401 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1702 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1616 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1400 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1233 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1733 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1734 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1557 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1609 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1532 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1703 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1583 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1704 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#953 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1011 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1420 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1373 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1471 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1530 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1419 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1559 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1706 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1735 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1619 
+\"atoi(a[s+4])\"
+
+19.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#492 
+\"strlen(newnck)\"
+
+19.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#492 
+\"strlen(ih)\"
+
+19.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#636 
+\"strlen(aliases[i].name)\"
+
+19.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#542 
+\"strlen(nick)\"
+
+18.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#1160 
+\"atoi(a[i])\"
+
+11.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#478 
+\"strcpy(&masters[i][1],newnck)\"
+
+9.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/misc.cpp#50 
+\"strlen(repstr)\"
+
+9.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#298 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/misc.cpp#70 
+\"strlen(inStr)\"
+
+
+Found 16 methods. 
+1137.470629616602: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#345 
+\"int irc_parseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,char *server,char masters[][128],char *host,int *in_channel,int repeat,int spy)\"
+
+42.0: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/threads.cpp#6 
+\"int addthread (char *name,int id,SOCKET sock)\"
+
+41.125: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/misc.cpp#62 
+\"int Split (char *inStr,void *saveArray)\"
+
+31.48148148148148: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/threads.cpp#154 
+\"void clearthread (int threadnum)\"
+
+21.612403100775193: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/advscan.cpp#90 
+\"void CheckServers (ADVSCAN scan)\"
+
+17.625: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/fphost.cpp#23 
+\"bool MemContains (const char *pMem,const int iMemLen,const char *pSearch,const int iSearchLen)\"
+
+13.31132075471698: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/advscan.cpp#368 
+\"WINAPI AdvScanner (LPVOID param)\"
+
+11.78048780487805: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/wildcard.cpp#7 
+\"int wildcardfit (char *wildcard,char *test)\"
+
+8.982142857142858: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/advscan.cpp#223 
+\"BOOL SynPortOpen (unsigned long src_ip,unsigned long dest_ip,unsigned int port,unsigned int delay)\"
+
+8.679012345679013: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/tftpd.cpp#7 
+\"WINAPI tftpserver (LPVOID param)\"
+
+8.5: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/download.cpp#156 
+\"char* Xorbuff (char *buffer,int bufferLen)\"
+
+7.608695652173913: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#279 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,SOCKET hsock,char *hchannel,char *server,int spy)\"
+
+7.353535353535354: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/redirect.cpp#61 
+\"WINAPI RedirectLoopThread (LPVOID param)\"
+
+7.298507462686567: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/CYBER.cpp#223 
+\"WINAPI irc_connect (LPVOID param)\"
+
+3.4: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/ms04_007_asn1.cpp#453 
+\"bool ExploitSMBNT (SOCKET nFDSocket,BitString BitToken)\"
+
+3.2987012987012987: /home/D_K/BA/theZoo2/CyberBotv2.2_October2006/CyberBot v2.2 - October 2006/redirect.cpp#8 
+\"WINAPI RedirectThread (LPVOID param)\"

@@ -1,0 +1,369 @@
+Found 3897 nodes.
+Found 98 sink. 
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2239 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2009 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2016 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2252 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2239 
+\"strlen(a[s+2])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2252 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2252 
+\"strlen(a[s+2])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2016 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2239 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2009 
+\"strlen(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2242 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2068 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2271 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2064 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1887 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2048 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2202 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1898 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2255 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1889 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2027 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2173 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2135 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2219 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2296 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2200 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2256 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1891 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2243 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2060 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2055 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2255 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2085 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2060 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2295 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2068 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2124 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2085 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1896 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2220 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2241 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2241 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2068 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1886 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2238 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2055 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2076 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2055 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2106 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2185 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2273 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2323 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2042 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2257 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2064 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2251 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2294 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2048 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2258 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2272 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2042 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1890 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2060 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1896 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2274 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2048 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2076 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2064 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1892 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2244 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1886 
+\"atoi(a[s+1])\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1982 
+\"strcpy(ns->ipmask,inet_ntoa(sin.sin_addr))\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2324 
+\"strcpy(sender_email,a[s+3])\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2325 
+\"strcpy(recp_email,a[s+4])\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1972 
+\"strcpy(ns->ipmask,a[s+3])\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1401 
+\"strcpy(msg_real_dest,a[2])\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2326 
+\"strcpy(subject,replacestr(a[s+5],\"_\",\" \"))\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2322 
+\"strcpy(server,a[s+1])\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1562 
+\"strcpy(szDataBuf, \"N\")\"
+
+21.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1368 
+\"strcpy(&masters[i][1],newnck)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1479 
+\"strlen(aliases[i].name)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2414 
+\"strlen(oldstr-1)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2362 
+\"strlen(msgbuf)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2411 
+\"strlen(oldstr)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2414 
+\"strlen(p+1)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1407 
+\"strlen(nick)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1563 
+\"strlen(szDataBuf)\"
+
+19.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1519 
+\"strlen(ntmp)\"
+
+18.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1517 
+\"atoi(ntmp)\"
+
+18.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1873 
+\"atoi(a[i])\"
+
+18.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1517 
+\"atoi(ntmp)\"
+
+9.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2752 
+\"strlen(inStr)\"
+
+9.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1184 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2392 
+\"strlen(msgbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2339 
+\"strlen(myBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1173 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1140 
+\"strlen(buff)\"
+
+9.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2407 
+\"strlen(newstr)\"
+
+Found 24 methods. 
+1128.8977673325498: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1224 
+\"int irc_parseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,char *server,char *master,char *host,int *in_channel,int repeat)\"
+
+40.1219512195122: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2741 
+\"int Split (char *inStr,void *saveArray)\"
+
+21.16: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1019 
+\"WINAPI irc_connect (LPVOID param)\"
+
+17.142857142857142: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3711 
+\"int HostMaskMatch (char *h)\"
+
+11.78048780487805: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3597 
+\"int wildcardfit (char *wildcard,char *test)\"
+
+8.5: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2832 
+\"char* Xorbuff (char *buff,int buffLen)\"
+
+7.918367346938775: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2396 
+\"char* replacestr (char *str,char *oldstr,char *newstr)\"
+
+7.91: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3503 
+\"WINAPI Socks4ClientThread (LPVOID pParam)\"
+
+5.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/crc32.c#78 
+\"unsigned long crc32 (char *buf,size_t size)\"
+
+4.340909090909091: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1158 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,SOCKET hsock,char *hchannel,char *server,BYTE spy)\"
+
+1.5263157894736843: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3145 
+\"WINAPI redirectloop2 (LPVOID param)\"
+
+0.7047619047619048: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3553 
+\"void transfer_loop (SOCKET target,SOCKET client)\"
+
+0.6702127659574468: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2427 
+\"WINAPI webdownload (LPVOID param)\"
+
+0.6666666666666666: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2356 
+\"void irc_send (SOCKET sock,char *msg)\"
+
+0.578125: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3088 
+\"WINAPI redirectloop (LPVOID param)\"
+
+0.5: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2384 
+\"void irc_privmsg (SOCKET sock,char *dest,char *msg,BOOL notice)\"
+
+0.45454545454545453: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#990 
+\"int addalias (char *name,char *command)\"
+
+0.3611111111111111: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1116 
+\"WINAPI ident (LPVOID param)\"
+
+0.0975609756097561: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3669 
+\"int asterisk (char **wildcard,char **test)\"
+
+0.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#1147 
+\"char* rndnick (char *strbuf)\"
+
+0.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#3583 
+\"void mirccmd (char *cmd)\"
+
+0.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2375 
+\"void irc_sendf2 (SOCKET sock,char *msg,char *str,char *str2)\"
+
+0.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2556 
+\"char* netinfo (char *ninfo,char *host,SOCKET sock)\"
+
+0.0: /home/D_K/BA/theZoo2/xTBot0.0.2_2Feb2002/xTBot 0.0.2 - 2 Feb 2002/rBot032.cpp#2366 
+\"void irc_sendf (SOCKET sock,char *msg,char *str)\"
+

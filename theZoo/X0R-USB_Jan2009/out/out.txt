@@ -1,0 +1,516 @@
+Found 3367 nodes.
+Found 166 sink. 
+16.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#150 
+\"CreateFile(out, GENERIC_WRITE, FILE_SHARE_READ|FILE_SHARE_WRITE,\n\t\tNULL, CREATE_ALWAYS, FILE_ATTRIBUTE_NORMAL, NULL)\"
+
+16.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#146 
+\"CreateFile(in, GENERIC_READ, FILE_SHARE_READ|FILE_SHARE_WRITE,\n\t\tNULL, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL)\"
+
+16.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1704 
+\"fCreateToolhelp32Snapshot(TH32CS_SNAPALL, 0)\"
+
+16.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1702 
+\"fCreateToolhelp32Snapshot(TH32CS_SNAPALL, 0)\"
+
+16.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1702 
+\"fCreateToolhelp32Snapshot(TH32CS_SNAPALL, 0)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#2002 
+\"ZwWriteVirtualMemory(hProc, pStrAddr, &injStr, sizeof(injStr), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1850 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteREGThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1848 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteREGThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1876 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteStartThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1794 
+\"ZwWriteVirtualMemory(hProc, pAddr, condata[i].host, lstrlen(condata[i].host), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#215 
+\"CloseHandle(hFileOut)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1837 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteUSBThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1900 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_str, &strings, sizeof(strings), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1988 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_ifs, &ifs, sizeof(ifs), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1835 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteUSBThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1988 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_ifs, &ifs, sizeof(ifs), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1823 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteDownloadThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#2004 
+\"ZwWriteVirtualMemory(hProc, pStrAddr, &injStr, sizeof(injStr), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1977 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_efs, &efs, sizeof(efs), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1887 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_con, &condata, sizeof(condata), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1792 
+\"ZwWriteVirtualMemory(hProc, pAddr, condata[i].host, lstrlen(condata[i].host), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#153 
+\"CloseHandle(hFileIn)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1863 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteDDOSThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1807 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)GenerateLetters, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1809 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)GenerateLetters, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1778 
+\"ZwWriteVirtualMemory(hProc, pAddr, strings[i].text, lstrlen(strings[i].text), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1792 
+\"ZwWriteVirtualMemory(hProc, pAddr, condata[i].host, lstrlen(condata[i].host), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1885 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_con, &condata, sizeof(condata), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1861 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteDDOSThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1885 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_con, &condata, sizeof(condata), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1776 
+\"ZwWriteVirtualMemory(hProc, pAddr, strings[i].text, lstrlen(strings[i].text), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#216 
+\"CloseHandle(hFileIn)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1898 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_str, &strings, sizeof(strings), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1861 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteDDOSThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1975 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_efs, &efs, sizeof(efs), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1874 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteStartThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1821 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteDownloadThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1835 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteUSBThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1975 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_efs, &efs, sizeof(efs), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1898 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_str, &strings, sizeof(strings), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1874 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteStartThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1807 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)GenerateLetters, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#2002 
+\"ZwWriteVirtualMemory(hProc, pStrAddr, &injStr, sizeof(injStr), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1776 
+\"ZwWriteVirtualMemory(hProc, pAddr, strings[i].text, lstrlen(strings[i].text), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1848 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteREGThread, dwProcSize, &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1990 
+\"ZwWriteVirtualMemory(hProc, pStrAddr_ifs, &ifs, sizeof(ifs), &dwWr)\"
+
+11.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1821 
+\"ZwWriteVirtualMemory(hProc, pAddr, (LPVOID)RemoteDownloadThread, dwProcSize, &dwWr)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1880 
+\"fVirtualAllocEx(hProc, NULL, sizeof(condata), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1895 
+\"fVirtualAllocEx(hProc, NULL, sizeof(strings), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#176 
+\"lstrlen(store_as)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1745 
+\"fGetModuleFileName(0, injStr.module, sizeof(injStr.module))\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1787 
+\"lstrlen(condata[i].host)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1751 
+\"MessageBox(NULL, \"Failed to load ntdll.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#201 
+\"WriteFile(hFileOut, &dir1, sizeof(dir1), &i, NULL)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1776 
+\"lstrlen(strings[i].text)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1999 
+\"fVirtualAllocEx(hProc, NULL, sizeof(injStr), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1738 
+\"MessageBox(NULL, \"Failed to find appropriate process\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1818 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1843 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#182 
+\"WriteFile(hFileOut, &hdr1, sizeof(hdr1), &i, NULL)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1733 
+\"efs.CloseHandle(hProcess)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#2016 
+\"efs.CloseHandle(hProc)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1707 
+\"fProcess32First(hProcess, &pe32)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1692 
+\"MessageBox(NULL, \"Failed to load kernel32.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#203 
+\"lstrlen(store_as)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1997 
+\"fVirtualAllocEx(hProc, NULL, sizeof(injStr), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1845 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1794 
+\"lstrlen(condata[i].host)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1711 
+\"fProcess32Next(hProcess, &pe32)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1856 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1773 
+\"lstrlen(strings[i].text)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#191 
+\"WriteFile(hFileOut, buf, i, &j, NULL)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#185 
+\"lstrlen(store_as)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1893 
+\"fVirtualAllocEx(hProc, NULL, sizeof(strings), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1792 
+\"lstrlen(condata[i].host)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#184 
+\"WriteFile(hFileOut, store_as, lstrlen(store_as), &i, NULL)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1970 
+\"fVirtualAllocEx(hProc, NULL, sizeof(efs), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1830 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1711 
+\"lstrcmpi(pe32.szExeFile, inj_procs[i])\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1792 
+\"lstrlen(condata[i].host)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1731 
+\"efs.CloseHandle(hProcess)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1832 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1789 
+\"fVirtualAllocEx(hProc, NULL, lstrlen(condata[i].host), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1771 
+\"lstrlen(strings[i].text)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1802 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1771 
+\"lstrlen(strings[i].text)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1816 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1869 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#2026 
+\"efs.CloseHandle(hProc)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#2009 
+\"fCreateRemoteThread(hProc, NULL, 0, (LPTHREAD_START_ROUTINE)pAddr, pStrAddr, 0, &thread_id)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1709 
+\"fProcess32Next(hProcess, &pe32)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1843 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1745 
+\"fGetModuleFileName(0, injStr.module, sizeof(injStr.module))\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#2023 
+\"MessageBox(NULL, \"Injection error\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1672 
+\"MessageBox(NULL, \"Starting in debug mode\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1736 
+\"MessageBox(NULL, \"Failed to find appropriate process\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#213 
+\"WriteFile(hFileOut, &eod1, sizeof(eod1), &i, NULL)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1893 
+\"fVirtualAllocEx(hProc, NULL, sizeof(strings), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1713 
+\"fOpenProcess(PROCESS_CREATE_THREAD | PROCESS_QUERY_INFORMATION | PROCESS_VM_OPERATION | PROCESS_VM_READ | PROCESS_VM_WRITE, FALSE, pe32.th32ProcessID)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1736 
+\"MessageBox(NULL, \"Failed to find appropriate process\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1787 
+\"lstrlen(condata[i].host)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1709 
+\"fProcess32First(hProcess, &pe32)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1771 
+\"fVirtualAllocEx(hProc, NULL, lstrlen(strings[i].text), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1858 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#184 
+\"lstrlen(store_as)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#2016 
+\"efs.CloseHandle(hProc)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1670 
+\"MessageBox(NULL, \"Starting in debug mode\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1869 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#2028 
+\"efs.CloseHandle(hProc)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1983 
+\"fVirtualAllocEx(hProc, NULL, sizeof(ifs), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1882 
+\"fVirtualAllocEx(hProc, NULL, sizeof(condata), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1670 
+\"MessageBox(NULL, \"Starting in debug mode\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1985 
+\"fVirtualAllocEx(hProc, NULL, sizeof(ifs), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1787 
+\"fVirtualAllocEx(hProc, NULL, lstrlen(condata[i].host), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1913 
+\"MessageBox(NULL, \"Failed to load libraries\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1692 
+\"MessageBox(NULL, \"Failed to load kernel32.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1972 
+\"fVirtualAllocEx(hProc, NULL, sizeof(efs), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#2011 
+\"fCreateRemoteThread(hProc, NULL, 0, (LPTHREAD_START_ROUTINE)pAddr, pStrAddr, 0, &thread_id)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1759 
+\"MessageBox(NULL, \"Function failed\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#2018 
+\"efs.CloseHandle(hProc)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1713 
+\"lstrcmpi(pe32.szExeFile, inj_procs[i])\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#2026 
+\"efs.CloseHandle(hProc)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1709 
+\"fProcess32Next(hProcess, &pe32)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1789 
+\"lstrlen(condata[i].host)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1830 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1983 
+\"fVirtualAllocEx(hProc, NULL, sizeof(ifs), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#204 
+\"lstrlen(store_as)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1880 
+\"fVirtualAllocEx(hProc, NULL, sizeof(condata), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1679 
+\"MessageBox(NULL, \"Failed to load user32.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1771 
+\"fVirtualAllocEx(hProc, NULL, lstrlen(strings[i].text), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#2016 
+\"MessageBox(NULL, \"Injected!\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1731 
+\"efs.CloseHandle(hProcess)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#2023 
+\"MessageBox(NULL, \"Injection error\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#2009 
+\"fCreateRemoteThread(hProc, NULL, 0, (LPTHREAD_START_ROUTINE)pAddr, pStrAddr, 0, &thread_id)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1713 
+\"fOpenProcess(PROCESS_CREATE_THREAD | PROCESS_QUERY_INFORMATION | PROCESS_VM_OPERATION | PROCESS_VM_READ | PROCESS_VM_WRITE, FALSE, pe32.th32ProcessID)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1679 
+\"MessageBox(NULL, \"Failed to load user32.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1751 
+\"MessageBox(NULL, \"Failed to load ntdll.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1681 
+\"MessageBox(NULL, \"Failed to load user32.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1711 
+\"lstrcmpi(pe32.szExeFile, inj_procs[i])\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1707 
+\"fProcess32First(hProcess, &pe32)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1802 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1816 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#2014 
+\"MessageBox(NULL, \"Injected!\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1915 
+\"MessageBox(NULL, \"Failed to load libraries\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1753 
+\"MessageBox(NULL, \"Failed to load ntdll.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1778 
+\"lstrlen(strings[i].text)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1773 
+\"fVirtualAllocEx(hProc, NULL, lstrlen(strings[i].text), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1727 
+\"MessageBox(NULL, \"Failed to create toolhelp32snapshot\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1871 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1804 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1761 
+\"MessageBox(NULL, \"Function failed\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1997 
+\"fVirtualAllocEx(hProc, NULL, sizeof(injStr), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1856 
+\"fVirtualAllocEx(hProc, NULL, dwProcSize, MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1725 
+\"MessageBox(NULL, \"Failed to create toolhelp32snapshot\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1776 
+\"lstrlen(strings[i].text)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1694 
+\"MessageBox(NULL, \"Failed to load kernel32.dll\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1715 
+\"fOpenProcess(PROCESS_CREATE_THREAD | PROCESS_QUERY_INFORMATION | PROCESS_VM_OPERATION | PROCESS_VM_READ | PROCESS_VM_WRITE, FALSE, pe32.th32ProcessID)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1725 
+\"MessageBox(NULL, \"Failed to create toolhelp32snapshot\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1970 
+\"fVirtualAllocEx(hProc, NULL, sizeof(efs), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1787 
+\"fVirtualAllocEx(hProc, NULL, lstrlen(condata[i].host), MEM_COMMIT, PAGE_EXECUTE_READWRITE)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#2025 
+\"MessageBox(NULL, \"Injection error\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1759 
+\"MessageBox(NULL, \"Function failed\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#2014 
+\"MessageBox(NULL, \"Injected!\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1913 
+\"MessageBox(NULL, \"Failed to load libraries\", NULL, MB_ICONERROR | MB_OK)\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1747 
+\"fGetModuleFileName(0, injStr.module, sizeof(injStr.module))\"
+
+9.0: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#203 
+\"WriteFile(hFileOut, store_as, lstrlen(store_as), &i, NULL)\"
+
+Found 5 methods. 
+67.65112540192926: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main-OK.c#1641 
+\"int WinMainCRTStartup ()\"
+
+67.65112540192926: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/Lastmain.c#1641 
+\"int WinMainCRTStartup ()\"
+
+67.65112540192926: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/main.c#1643 
+\"int WinMainCRTStartup ()\"
+
+12.45: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#137 
+\"int zip_store (char *in,char *out,char *store_as)\"
+
+0.26666666666666666: /home/D_K/BA/theZoo2/X0R-USB_Jan2009/X0R-USB - Virus Version - Jan 2009/zip.cpp#122 
+\"unsigned long zip_calc_crc32 (HANDLE hFileIn)\"
+

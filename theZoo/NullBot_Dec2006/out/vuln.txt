@@ -1,0 +1,26 @@
+Found 5 sink. 
+17.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#191 
+\"strcpy(sWorkgroup,(char*)&(szRecvBuf[iRecvd+1]))\"
+
+17.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#192 
+\"strcpy(sServer,(char*)&(szRecvBuf[iRecvd+1]))\"
+
+17.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#193 
+\"strcpy(sOS,(char*)&(szRecvBuf[iRecvd+1]))\"
+
+9.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/nullbot.cpp#411 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/nullbot.cpp#400 
+\"strlen(login)\"
+
+
+Found 3 methods. 
+17.625: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#43 
+\"bool MemContains (const char *pMem,const int iMemLen,const char *pSearch,const int iSearchLen)\"
+
+9.605042016806722: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#52 
+\"int FpHost (const char *szHost,int iFpType)\"
+
+3.1818181818181817: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/nullbot.cpp#385 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,char *server)\"

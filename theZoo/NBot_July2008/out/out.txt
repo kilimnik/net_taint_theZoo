@@ -1,0 +1,66 @@
+Found 245 nodes.
+Found 8 sink. 
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#132 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/FakeIRCD.cpp#55 
+\"strlen(tstr)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#273 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/other.cpp#45 
+\"strlen(inStr)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#1028 
+\"strlen(msgbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#82 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#262 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#33 
+\"strlen(buffer)\"
+
+Found 13 methods. 
+41.125: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/other.cpp#34 
+\"int Split (char *inStr,void *saveArray)\"
+
+10.844594594594595: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/Transfer.cpp#35 
+\"void TFTPDHandler (LPVOID dwParam)\"
+
+3.1818181818181817: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#247 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,char *server)\"
+
+1.2575757575757576: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/Shellcode.cpp#213 
+\"void ServeShellcode (LPVOID lpParam)\"
+
+0.5: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#53 
+\"WINAPI MYDOOM (LPVOID param)\"
+
+0.5: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#102 
+\"WINAPI MYDOOM2 (LPVOID param)\"
+
+0.5: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#5 
+\"WINAPI VNCHONEYPOT (LPVOID param)\"
+
+0.5: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#1020 
+\"void irc_privmsg (SOCKET sock,char *dest,char *msg,BOOL notice)\"
+
+0.16541353383458646: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/FakeIRCD.cpp#5 
+\"WINAPI IdentThread (LPVOID param)\"
+
+0.13756613756613756: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/dcom2.cpp#74 
+\"void Dcom2 (ExploitInfo_s* pExploitInfo)\"
+
+0.056962025316455694: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/Transfer.cpp#179 
+\"void FtpdHandler ()\"
+
+0.047619047619047616: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/download.cpp#6 
+\"WINAPI webdownload (LPVOID param)\"
+
+0.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#313 
+\"int irc_parseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,char *server,char *master,char *host,int *in_channel,int repeat)\"
+

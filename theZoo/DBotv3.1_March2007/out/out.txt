@@ -1,0 +1,36 @@
+Found 590 nodes.
+Found 2 sink. 
+9.0: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/ftpd.cpp#119 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/ftpd.cpp#124 
+\"strlen(szBuffer)\"
+
+Found 9 methods. 
+12.0: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/vncps.cpp#471 
+\"void vncEncryptBytes (unsigned char *bytes,char *passwd)\"
+
+9.25: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/vncps.cpp#526 
+\"BOOL WriteExact (SOCKET w_sock,char *buf,int bytes)\"
+
+6.6: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/vncps.cpp#542 
+\"void ReadString (SOCKET s_sock,char *buf,int length)\"
+
+6.454545454545454: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/vncps.cpp#512 
+\"BOOL ReadExact (SOCKET r_sock,char *inbuf,int wanted)\"
+
+3.430683918669131: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/vncps.cpp#664 
+\"BOOL VNCPassCheck (SOCKET Sock,char IP[16],BOOL UseCFTP,BOOL Root)\"
+
+0.6161616161616161: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/ftpd.cpp#86 
+\"WINAPI FTPDHandler (LPVOID param)\"
+
+0.5306122448979592: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/scanner.cpp#177 
+\"BOOL ConnectShell (char *ip,unsigned int connectport)\"
+
+0.0364963503649635: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/downloader.cpp#4 
+\"WINAPI DownloadThread (LPVOID param)\"
+
+0.0: /home/D_K/BA/theZoo2/DBotv3.1_March2007/DBot v3.1 - March 2007/d3des.h#4 
+\"void deskey (unsigned char *,short)\"
+

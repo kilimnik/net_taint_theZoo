@@ -1,0 +1,1155 @@
+  [9999D[7C[1A[9999D[0Jjoern> 
+importCode.c(inputPath="/home/D_K/BA/theZoo2/rBot0.3.3_May2004", "rBot0.3.3_May2004") [1A[9999D[1B[5C
+Creating project `rBot0.3.3_May2004` for code at `/home/D_K/BA/theZoo2/rBot0.3.3_May2004`
+Project with name rBot0.3.3_May2004 already exists - overwriting
+moving cpg.bin.zip to cpg.bin because it is already a database file
+Creating working copy of CPG to be safe
+Loading base CPG from: /home/D_K/BA/workspace/rBot0.3.3_May2004/cpg.bin.tmp
+Code successfully imported. You can now query it using `cpg`.
+For an overview of all imported code, type `workspace`.
+Adding default overlays to base CPG
+The graph has been modified. You may want to use the `save` command to persist changes to disk.  All changes will also be saved collectively on exit
+res0: Cpg = io.shiftleft.codepropertygraph.generated.Cpg@4ed096cc
+
+[9999D[0Jjoern> runScript("/home/D_K/BA/net_taint/find.sc", Map(), cpg) [9999D[55C[7C
+[34mCompiling (synthetic)/ammonite/predef/ArgsPredef.sc[39m
+[34mCompiling /home/D_K/BA/(console)[39m
+[34mCompiling /home/D_K/BA/net_taint/find.sc[39m
+[INFO] [STATUS]: Search sourceOperations
+[DEBUG]: HashMap(recv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@381fce5e, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@2aa90618, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0)
+[DEBUG]: Current Operation HttpQueryInfoA
+[TIME] [getCreatedSourceFunctions]: took 0.110531043 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 9.53108E-4 seconds
+[DEBUG]: HashMap(InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@381fce5e, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@2aa90618, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0)
+[DEBUG]: Current Operation recv
+[TIME] [getCreatedSourceFunctions]: took 0.087899139 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 0.04320469 seconds
+[INFO] [COUNT] last count: 2
+[DEBUG] [GRAPH_SIZE]: 2
+[TIME] [GetIndirectSource]: took 0.097274635 seconds
+[DEBUG] [GRAPH_SIZE]: 4
+[TIME] [GetIndirectSourceCall]: took 0.171322424 seconds
+[DEBUG] [GRAPH_SIZE]: 8
+[TIME] [FollowSubSource]: took 0.035595201 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowFunctionCalls]: took 0.326533813 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [UnzipFieldAccess]: took 0.250299043 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FindReturns]: took 0.145079364 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowReturns]: took 7.70069E-4 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForParameters]: took 0.15597963 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForParameterCalls]: took 8.70652E-4 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForReturnCalls]: took 9.54674E-4 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[INFO] [COUNT] last count: 23
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [GetIndirectSource]: took 0.277693655 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [GetIndirectSourceCall]: took 0.228154649 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowSubSource]: took 0.016754328 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowFunctionCalls]: took 0.182118028 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [UnzipFieldAccess]: took 0.278534006 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FindReturns]: took 0.130199207 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowReturns]: took 1.07784E-4 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForParameters]: took 0.137523169 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForParameterCalls]: took 9.2752E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForReturnCalls]: took 6.9695E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[INFO] [COUNT] last count: 35
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [GetIndirectSource]: took 0.221159089 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [GetIndirectSourceCall]: took 0.200794054 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowSubSource]: took 0.016947726 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowFunctionCalls]: took 0.253962653 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [UnzipFieldAccess]: took 0.363636422 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FindReturns]: took 0.137459228 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [FollowReturns]: took 9.4559E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForParameters]: took 0.258006584 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForParameterCalls]: took 9.9461E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[TIME] [LookForReturnCalls]: took 9.0668E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 12
+[DEBUG]: HashMap(!frecvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@381fce5e, frecvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@2aa90618, !frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation RECV
+[TIME] [getCreatedSourceFunctions]: took 0.103246715 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 4.2961E-5 seconds
+[DEBUG]: HashMap(InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@381fce5e, frecvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@2aa90618, !frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation !frecvfrom
+[TIME] [getCreatedSourceFunctions]: took 0.115915165 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.7575E-5 seconds
+[DEBUG]: HashMap(frecvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@2aa90618, !frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation InternetReadFileExA
+[TIME] [getCreatedSourceFunctions]: took 0.072195989 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.0797E-5 seconds
+[DEBUG]: HashMap(HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@2aa90618, !frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation frecvfrom
+[TIME] [getCreatedSourceFunctions]: took 0.106731813 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.0511E-5 seconds
+[DEBUG]: HashMap(!frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation HttpQueryInfoW
+[TIME] [getCreatedSourceFunctions]: took 0.103996457 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.7831E-5 seconds
+[DEBUG]: HashMap(recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation !frecv
+[TIME] [getCreatedSourceFunctions]: took 0.076186072 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.0512E-5 seconds
+[DEBUG]: HashMap(InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation recvfrom
+[TIME] [getCreatedSourceFunctions]: took 0.076965812 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 0.011561762 seconds
+[INFO] [COUNT] last count: 1
+[DEBUG] [GRAPH_SIZE]: 1
+[TIME] [GetIndirectSource]: took 0.010172507 seconds
+[DEBUG] [GRAPH_SIZE]: 2
+[TIME] [GetIndirectSourceCall]: took 0.046844087 seconds
+[DEBUG] [GRAPH_SIZE]: 4
+[TIME] [FollowSubSource]: took 0.007950889 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.127090713 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.138793547 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.064239401 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 7.0191E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.06846718 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 8.2728E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 8.749E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 11
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.103150417 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.091594514 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.029964448 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.091501622 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.145734625 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.068200359 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 7.2497E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.060537132 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 8.152E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 7.2589E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 16
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.108361089 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.102713365 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.009898013 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.141458068 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.159705028 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.068373592 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 9.6235E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.076196704 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 8.4141E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 9.6197E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[DEBUG]: HashMap(RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation InternetReadFileExW
+[TIME] [getCreatedSourceFunctions]: took 0.075809406 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5469E-5 seconds
+[DEBUG]: HashMap(GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation RECVFROM
+[TIME] [getCreatedSourceFunctions]: took 0.077279135 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5701E-5 seconds
+[DEBUG]: HashMap((RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation GetProcAddress(ws2_32_dll,"recv")
+[TIME] [getCreatedSourceFunctions]: took 0.129355359 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 0.010359131 seconds
+[INFO] [COUNT] last count: 1
+[DEBUG] [GRAPH_SIZE]: 1
+[TIME] [GetIndirectSource]: took 0.012775857 seconds
+[DEBUG] [GRAPH_SIZE]: 2
+[TIME] [GetIndirectSourceCall]: took 0.065798692 seconds
+[DEBUG] [GRAPH_SIZE]: 5
+[TIME] [FollowSubSource]: took 0.007795881 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [FollowFunctionCalls]: took 0.139394295 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [UnzipFieldAccess]: took 0.133155284 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [FindReturns]: took 0.07158945 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [FollowReturns]: took 7.6908E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [LookForParameters]: took 0.065880099 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [LookForParameterCalls]: took 8.7748E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [LookForReturnCalls]: took 4.3094E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 7
+[INFO] [COUNT] last count: 13
+[DEBUG] [GRAPH_SIZE]: 7
+[TIME] [GetIndirectSource]: took 0.213521484 seconds
+[DEBUG] [GRAPH_SIZE]: 8
+[TIME] [GetIndirectSourceCall]: took 0.16122643 seconds
+[DEBUG] [GRAPH_SIZE]: 9
+[TIME] [FollowSubSource]: took 0.014621855 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowFunctionCalls]: took 0.173406309 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [UnzipFieldAccess]: took 0.345640185 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FindReturns]: took 0.118499409 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowReturns]: took 9.3494E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForParameters]: took 0.118746987 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForParameterCalls]: took 8.4738E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForReturnCalls]: took 7.7613E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[INFO] [COUNT] last count: 27
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [GetIndirectSource]: took 0.190552734 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [GetIndirectSourceCall]: took 0.169744223 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowSubSource]: took 0.014860171 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowFunctionCalls]: took 0.18804447 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [UnzipFieldAccess]: took 0.348965252 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FindReturns]: took 0.116330211 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowReturns]: took 8.1084E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForParameters]: took 0.121124282 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForParameterCalls]: took 0.008856148 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForReturnCalls]: took 1.31151E-4 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[INFO] [COUNT] last count: 32
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [GetIndirectSource]: took 0.197725979 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [GetIndirectSourceCall]: took 0.255965754 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowSubSource]: took 0.019994867 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowFunctionCalls]: took 0.220298057 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [UnzipFieldAccess]: took 0.251031196 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FindReturns]: took 0.127421705 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [FollowReturns]: took 9.1275E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForParameters]: took 0.127611314 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForParameterCalls]: took 9.2431E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[TIME] [LookForReturnCalls]: took 8.7271E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 11
+[DEBUG]: HashMap(GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom")
+[TIME] [getCreatedSourceFunctions]: took 0.094783004 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5813E-5 seconds
+[DEBUG]: HashMap(InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation GetProcAddress(ws2_32_dll,"recvfrom")
+[TIME] [getCreatedSourceFunctions]: took 0.079055654 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 0.010735785 seconds
+[INFO] [COUNT] last count: 1
+[DEBUG] [GRAPH_SIZE]: 1
+[TIME] [GetIndirectSource]: took 0.011441726 seconds
+[DEBUG] [GRAPH_SIZE]: 2
+[TIME] [GetIndirectSourceCall]: took 0.045176335 seconds
+[DEBUG] [GRAPH_SIZE]: 4
+[TIME] [FollowSubSource]: took 0.007844844 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.084240438 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.097085664 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.046926671 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 6.7098E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.054707691 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 5.4195E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 2.8754E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 11
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.077881036 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.097384238 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.008478842 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.101306576 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.13406134 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.063764483 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 6.8277E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.07812545 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 7.6357E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 6.0679E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 16
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.146802494 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.092545168 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.007936189 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.091570862 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.125644046 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.064432249 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 6.2295E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.063211344 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 7.2302E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 3.7797E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[DEBUG]: HashMap((RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation InternetReadFile
+[TIME] [getCreatedSourceFunctions]: took 0.072985626 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 0.010110657 seconds
+[INFO] [COUNT] last count: 1
+[DEBUG] [GRAPH_SIZE]: 1
+[TIME] [GetIndirectSource]: took 0.009949557 seconds
+[DEBUG] [GRAPH_SIZE]: 2
+[TIME] [GetIndirectSourceCall]: took 0.041117383 seconds
+[DEBUG] [GRAPH_SIZE]: 4
+[TIME] [FollowSubSource]: took 0.008109936 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.091882851 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.124636092 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.064075355 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 6.2857E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.063943756 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 6.399E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 4.9666E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 11
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.100205801 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.091071297 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.008849963 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.08124746 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.115056386 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.06620113 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 6.7032E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.062644317 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 5.5436E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 2.9005E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 16
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.067286646 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.081170647 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.006410645 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.092777352 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.117396467 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.045026809 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 5.1851E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.051632883 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 7.8002E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 4.8374E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[DEBUG]: HashMap((IRF)GetProcAddress(wininet_dll, "InternetReadFile") -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, !fInternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, GetProcAddress(wininet_dll, "InternetReadFile") -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, IRF -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation fInternetReadFile
+[TIME] [getCreatedSourceFunctions]: took 0.080803133 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.6859E-5 seconds
+[DEBUG]: HashMap(!fInternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, GetProcAddress(wininet_dll, "InternetReadFile") -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, IRF -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation (IRF)GetProcAddress(wininet_dll, "InternetReadFile")
+[TIME] [getCreatedSourceFunctions]: took 0.081636617 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.9847E-5 seconds
+[DEBUG]: HashMap(GetProcAddress(wininet_dll, "InternetReadFile") -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, IRF -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation !fInternetReadFile
+[TIME] [getCreatedSourceFunctions]: took 0.080751022 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5927E-5 seconds
+[DEBUG]: HashMap((RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, IRF -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation GetProcAddress(wininet_dll, "InternetReadFile")
+[TIME] [getCreatedSourceFunctions]: took 0.057175857 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 0.007260772 seconds
+[INFO] [COUNT] last count: 1
+[DEBUG] [GRAPH_SIZE]: 1
+[TIME] [GetIndirectSource]: took 0.006918576 seconds
+[DEBUG] [GRAPH_SIZE]: 2
+[TIME] [GetIndirectSourceCall]: took 0.031201825 seconds
+[DEBUG] [GRAPH_SIZE]: 4
+[TIME] [FollowSubSource]: took 0.00526849 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.063329672 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.086744195 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.04677562 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 5.0365E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.048707173 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 7.0819E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 4.5603E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 11
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.081248061 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.06922789 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.006346842 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.063843855 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.124620757 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.064737547 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 6.7392E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.060510344 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 7.1919E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 4.6811E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[INFO] [COUNT] last count: 16
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSource]: took 0.093368016 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [GetIndirectSourceCall]: took 0.081107038 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowSubSource]: took 0.005829167 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowFunctionCalls]: took 0.085762874 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [UnzipFieldAccess]: took 0.119011952 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FindReturns]: took 0.066081564 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [FollowReturns]: took 6.5857E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameters]: took 0.063961344 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForParameterCalls]: took 7.179E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[TIME] [LookForReturnCalls]: took 4.2813E-5 seconds
+[DEBUG] [GRAPH_SIZE]: 6
+[DEBUG]: HashMap(HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, IRF -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation (RECV)GetProcAddress(ws2_32_dll,"recv")
+[TIME] [getCreatedSourceFunctions]: took 0.074218836 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5592E-5 seconds
+[DEBUG]: HashMap(IRF -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation HttpQueryInfo
+[TIME] [getCreatedSourceFunctions]: took 0.074265474 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5631E-5 seconds
+[DEBUG]: HashMap(WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation IRF
+[TIME] [getCreatedSourceFunctions]: took 0.074089893 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5576E-5 seconds
+[DEBUG]: HashMap(frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d)
+[DEBUG]: Current Operation WSARecvEx
+[TIME] [getCreatedSourceFunctions]: took 0.074605024 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4884E-5 seconds
+[DEBUG]: HashMap()
+[DEBUG]: Current Operation frecv
+[TIME] [getCreatedSourceFunctions]: took 0.079196301 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.637E-5 seconds
+[INFO] [SIZE]: 24
+[DEBUG] [Operations]: HashMap(RECV -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, !frecvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, frecvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, InternetReadFileExW -> [Lammonite.$file.net_taint.find$OperationValue;@283b4209, RECVFROM -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, !fInternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfoA -> [Lammonite.$file.net_taint.find$OperationValue;@5d46100b, recv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(wininet_dll, "InternetReadFile") -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, (RECVFROM)GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, GetProcAddress(ws2_32_dll,"recvfrom") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, (RECV)GetProcAddress(ws2_32_dll,"recv") -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, HttpQueryInfo -> [Lammonite.$file.net_taint.find$OperationValue;@394bf2ed, WSARecvEx -> [Lammonite.$file.net_taint.find$OperationValue;@4a4008d0, frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, fInternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, InternetReadFileExA -> [Lammonite.$file.net_taint.find$OperationValue;@381fce5e, HttpQueryInfoW -> [Lammonite.$file.net_taint.find$OperationValue;@2aa90618, (IRF)GetProcAddress(wininet_dll, "InternetReadFile") -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, !frecv -> [Lammonite.$file.net_taint.find$OperationValue;@5350c98d, recvfrom -> [Lammonite.$file.net_taint.find$OperationValue;@7f60ae61, InternetReadFile -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b, IRF -> [Lammonite.$file.net_taint.find$OperationValue;@3d958e9b)
+[TIME] [sourceOperations]: took 16.399106639 seconds
+[INFO] [STATUS]: Search sinkOperations
+[DEBUG]: HashMap(_wtoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@723c1bdf, lstrlen -> [Lammonite.$file.net_taint.find$OperationValue;@3a65c6d7, _mbscpy -> [Lammonite.$file.net_taint.find$OperationValue;@2c1b77e8, lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@2bfd960a, lstrlenA -> [Lammonite.$file.net_taint.find$OperationValue;@390d9249, _atoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@2dcab8c1, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atoi64_l
+[TIME] [getCreatedSourceFunctions]: took 0.051380382 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.7151E-5 seconds
+[DEBUG]: HashMap(lstrlen -> [Lammonite.$file.net_taint.find$OperationValue;@3a65c6d7, _mbscpy -> [Lammonite.$file.net_taint.find$OperationValue;@2c1b77e8, lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@2bfd960a, lstrlenA -> [Lammonite.$file.net_taint.find$OperationValue;@390d9249, _atoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@2dcab8c1, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtoi64
+[TIME] [getCreatedSourceFunctions]: took 0.04534221 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.6487E-5 seconds
+[DEBUG]: HashMap(_mbscpy -> [Lammonite.$file.net_taint.find$OperationValue;@2c1b77e8, lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@2bfd960a, lstrlenA -> [Lammonite.$file.net_taint.find$OperationValue;@390d9249, _atoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@2dcab8c1, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrlen
+[TIME] [getCreatedSourceFunctions]: took 0.048683608 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5557E-5 seconds
+[DEBUG]: HashMap(lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@2bfd960a, lstrlenA -> [Lammonite.$file.net_taint.find$OperationValue;@390d9249, _atoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@2dcab8c1, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _mbscpy
+[TIME] [getCreatedSourceFunctions]: took 0.06819231 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5796E-5 seconds
+[DEBUG]: HashMap(lstrlenA -> [Lammonite.$file.net_taint.find$OperationValue;@390d9249, _atoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@2dcab8c1, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcat
+[TIME] [getCreatedSourceFunctions]: took 0.071169681 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5299E-5 seconds
+[DEBUG]: HashMap(_atoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@2dcab8c1, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrlenA
+[TIME] [getCreatedSourceFunctions]: took 0.072914454 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.6174E-5 seconds
+[DEBUG]: HashMap(lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atoll_l
+[TIME] [getCreatedSourceFunctions]: took 0.054619335 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3313E-5 seconds
+[DEBUG]: HashMap(_atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcpyA
+[TIME] [getCreatedSourceFunctions]: took 0.045363793 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.353E-5 seconds
+[DEBUG]: HashMap(strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atoldbl_l
+[TIME] [getCreatedSourceFunctions]: took 0.046235525 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.5877E-5 seconds
+[DEBUG]: HashMap(_atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation strcpy
+[TIME] [getCreatedSourceFunctions]: took 0.06121214 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.544E-5 seconds
+[DEBUG]: HashMap(strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atol_l
+[TIME] [getCreatedSourceFunctions]: took 0.045720519 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4482E-5 seconds
+[DEBUG]: HashMap(atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation strlen
+[TIME] [getCreatedSourceFunctions]: took 0.045332838 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4187E-5 seconds
+[DEBUG]: HashMap(_wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation atoll
+[TIME] [getCreatedSourceFunctions]: took 0.044698731 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3921E-5 seconds
+[DEBUG]: HashMap(_atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtol_l
+[TIME] [getCreatedSourceFunctions]: took 0.04557035 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3914E-5 seconds
+[DEBUG]: HashMap(lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atoldbl
+[TIME] [getCreatedSourceFunctions]: took 0.046213917 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4057E-5 seconds
+[DEBUG]: HashMap(lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcpynA
+[TIME] [getCreatedSourceFunctions]: took 0.053953942 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5915E-5 seconds
+[DEBUG]: HashMap(_wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcatW
+[TIME] [getCreatedSourceFunctions]: took 0.047640141 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2889E-5 seconds
+[DEBUG]: HashMap(lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtoi_l
+[TIME] [getCreatedSourceFunctions]: took 0.045169279 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4667E-5 seconds
+[DEBUG]: HashMap(_wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcpyn
+[TIME] [getCreatedSourceFunctions]: took 0.045530787 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4019E-5 seconds
+[DEBUG]: HashMap(_atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtof_l
+[TIME] [getCreatedSourceFunctions]: took 0.046467075 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3938E-5 seconds
+[DEBUG]: HashMap(_atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atoflt_l
+[TIME] [getCreatedSourceFunctions]: took 0.055051502 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3979E-5 seconds
+[DEBUG]: HashMap(wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atof_l
+[TIME] [getCreatedSourceFunctions]: took 0.04613951 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.385E-5 seconds
+[DEBUG]: HashMap(atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation wcscpy
+[TIME] [getCreatedSourceFunctions]: took 0.045750625 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3303E-5 seconds
+[DEBUG]: HashMap(_wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation atoi
+[TIME] [getCreatedSourceFunctions]: took 0.053453655 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.766E-5 seconds
+[DEBUG]: HashMap(lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtof
+[TIME] [getCreatedSourceFunctions]: took 0.078584579 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.8238E-5 seconds
+[DEBUG]: HashMap(lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcpyW
+[TIME] [getCreatedSourceFunctions]: took 0.05529433 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.42E-5 seconds
+[DEBUG]: HashMap(_wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcatA
+[TIME] [getCreatedSourceFunctions]: took 0.047096038 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4629E-5 seconds
+[DEBUG]: HashMap(atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtoi
+[TIME] [getCreatedSourceFunctions]: took 0.044564476 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4698E-5 seconds
+[DEBUG]: HashMap(_atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation atoi_l
+[TIME] [getCreatedSourceFunctions]: took 0.07400082 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5651E-5 seconds
+[DEBUG]: HashMap(atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atoi64
+[TIME] [getCreatedSourceFunctions]: took 0.053890562 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 2.98E-5 seconds
+[DEBUG]: HashMap(_wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation atof
+[TIME] [getCreatedSourceFunctions]: took 0.044810837 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 3.7887E-5 seconds
+[DEBUG]: HashMap(_wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtol
+[TIME] [getCreatedSourceFunctions]: took 0.044961072 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3368E-5 seconds
+[DEBUG]: HashMap(_wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtoll
+[TIME] [getCreatedSourceFunctions]: took 0.056157837 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5835E-5 seconds
+[DEBUG]: HashMap(lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtoi64_l
+[TIME] [getCreatedSourceFunctions]: took 0.097152578 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2771E-5 seconds
+[DEBUG]: HashMap(lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcpy
+[TIME] [getCreatedSourceFunctions]: took 0.046956867 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4533E-5 seconds
+[DEBUG]: HashMap(system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrlenW
+[TIME] [getCreatedSourceFunctions]: took 0.052367075 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3E-5 seconds
+[DEBUG]: HashMap(_wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation system
+[TIME] [getCreatedSourceFunctions]: took 0.07490681 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5174E-5 seconds
+[DEBUG]: HashMap(lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _wtoll_l
+[TIME] [getCreatedSourceFunctions]: took 0.065030718 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.335E-5 seconds
+[DEBUG]: HashMap(atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation lstrcpynW
+[TIME] [getCreatedSourceFunctions]: took 0.060964226 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5229E-5 seconds
+[DEBUG]: HashMap(_atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation atol
+[TIME] [getCreatedSourceFunctions]: took 0.069074301 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2797E-5 seconds
+[DEBUG]: HashMap(_atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atodbl_l
+[TIME] [getCreatedSourceFunctions]: took 0.048157553 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4959E-5 seconds
+[DEBUG]: HashMap(_atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[DEBUG]: Current Operation _atoflt
+[TIME] [getCreatedSourceFunctions]: took 0.075662711 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5668E-5 seconds
+[DEBUG]: HashMap()
+[DEBUG]: Current Operation _atodbl
+[TIME] [getCreatedSourceFunctions]: took 0.077865404 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3724E-5 seconds
+[INFO] [SIZE]: 43
+[DEBUG] [Operations]: HashMap(_atoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@437ca8ea, _wtoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@723c1bdf, lstrlen -> [Lammonite.$file.net_taint.find$OperationValue;@3a65c6d7, _mbscpy -> [Lammonite.$file.net_taint.find$OperationValue;@2c1b77e8, lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@2bfd960a, lstrlenA -> [Lammonite.$file.net_taint.find$OperationValue;@390d9249, _atoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@2dcab8c1, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@5a193ea7, _atoldbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@1d93ae28, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4859e809, _atol_l -> [Lammonite.$file.net_taint.find$OperationValue;@30ad5d73, strlen -> [Lammonite.$file.net_taint.find$OperationValue;@2352a1c7, atoll -> [Lammonite.$file.net_taint.find$OperationValue;@2330b96b, _wtol_l -> [Lammonite.$file.net_taint.find$OperationValue;@24ae04a4, _atoldbl -> [Lammonite.$file.net_taint.find$OperationValue;@7e329387, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@4858591f, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@6e054a9e, _wtoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@3a5af8de, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@501efab9, _wtof_l -> [Lammonite.$file.net_taint.find$OperationValue;@5a04d104, _atoflt_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e913160, _atof_l -> [Lammonite.$file.net_taint.find$OperationValue;@73e0b664, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@540c4193, atoi -> [Lammonite.$file.net_taint.find$OperationValue;@28fc36e7, _wtof -> [Lammonite.$file.net_taint.find$OperationValue;@3ff118a9, lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@49d4daa5, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7fe20ad5, _wtoi -> [Lammonite.$file.net_taint.find$OperationValue;@366040c0, atoi_l -> [Lammonite.$file.net_taint.find$OperationValue;@1e332f5, _atoi64 -> [Lammonite.$file.net_taint.find$OperationValue;@6e0dc19e, atof -> [Lammonite.$file.net_taint.find$OperationValue;@1d6ca28, _wtol -> [Lammonite.$file.net_taint.find$OperationValue;@3504fc92, _wtoll -> [Lammonite.$file.net_taint.find$OperationValue;@2d68145d, _wtoi64_l -> [Lammonite.$file.net_taint.find$OperationValue;@2de9215f, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a593940, lstrlenW -> [Lammonite.$file.net_taint.find$OperationValue;@8aba6f5, system -> [Lammonite.$file.net_taint.find$OperationValue;@650c8141, _wtoll_l -> [Lammonite.$file.net_taint.find$OperationValue;@10ba766, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@52cb0d3e, atol -> [Lammonite.$file.net_taint.find$OperationValue;@782959c, _atodbl_l -> [Lammonite.$file.net_taint.find$OperationValue;@6050aa4, _atoflt -> [Lammonite.$file.net_taint.find$OperationValue;@5a69ad95, _atodbl -> [Lammonite.$file.net_taint.find$OperationValue;@50c1f91b)
+[TIME] [sinkOperations]: took 2.42781989 seconds
+[INFO] [STATUS]: Search indirectSourceOperations
+[DEBUG]: HashMap(lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7a10d73b, _mbscpy -> [Lammonite.$file.net_taint.find$OperationValue;@2546e043, lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@35b37f9, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@78f2e70b, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4274e21, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@16f1f21e, <operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcpyW
+[TIME] [getCreatedSourceFunctions]: took 0.047535464 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4176E-5 seconds
+[DEBUG]: HashMap(_mbscpy -> [Lammonite.$file.net_taint.find$OperationValue;@2546e043, lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@35b37f9, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@78f2e70b, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4274e21, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@16f1f21e, <operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcatA
+[TIME] [getCreatedSourceFunctions]: took 0.045834758 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5817E-5 seconds
+[DEBUG]: HashMap(lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@35b37f9, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@78f2e70b, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4274e21, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@16f1f21e, <operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation _mbscpy
+[TIME] [getCreatedSourceFunctions]: took 0.046829732 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3046E-5 seconds
+[DEBUG]: HashMap(lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@78f2e70b, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4274e21, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@16f1f21e, <operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcat
+[TIME] [getCreatedSourceFunctions]: took 0.047468884 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.378E-5 seconds
+[DEBUG]: HashMap(strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4274e21, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@16f1f21e, <operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcpyA
+[TIME] [getCreatedSourceFunctions]: took 0.053925466 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5854E-5 seconds
+[DEBUG]: HashMap(lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@16f1f21e, <operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation strcpy
+[TIME] [getCreatedSourceFunctions]: took 0.052556801 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5385E-5 seconds
+[DEBUG]: HashMap(<operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcpy
+[TIME] [getCreatedSourceFunctions]: took 0.076926799 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5335E-5 seconds
+[DEBUG]: HashMap(lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation <operator>.assignmentPlus
+[TIME] [getCreatedSourceFunctions]: took 0.082171828 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.433E-5 seconds
+[DEBUG]: HashMap(<operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcpynA
+[TIME] [getCreatedSourceFunctions]: took 0.046619676 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3716E-5 seconds
+[DEBUG]: HashMap(lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation <operator>.assignmentMinus
+[TIME] [getCreatedSourceFunctions]: took 0.052903868 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3748E-5 seconds
+[DEBUG]: HashMap(memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcatW
+[TIME] [getCreatedSourceFunctions]: took 0.052694986 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3908E-5 seconds
+[DEBUG]: HashMap(lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation memcpy
+[TIME] [getCreatedSourceFunctions]: took 0.059093801 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3167E-5 seconds
+[DEBUG]: HashMap(lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcpyn
+[TIME] [getCreatedSourceFunctions]: took 0.044990286 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.1721E-5 seconds
+[DEBUG]: HashMap(wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation lstrcpynW
+[TIME] [getCreatedSourceFunctions]: took 0.046502845 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2738E-5 seconds
+[DEBUG]: HashMap(<operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[DEBUG]: Current Operation wcscpy
+[TIME] [getCreatedSourceFunctions]: took 0.056584933 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4136E-5 seconds
+[DEBUG]: HashMap()
+[DEBUG]: Current Operation <operator>.assignment
+[TIME] [getCreatedSourceFunctions]: took 0.046569908 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4227E-5 seconds
+[INFO] [SIZE]: 16
+[DEBUG] [Operations]: HashMap(lstrcpyW -> [Lammonite.$file.net_taint.find$OperationValue;@79fe73f9, lstrcatA -> [Lammonite.$file.net_taint.find$OperationValue;@7a10d73b, _mbscpy -> [Lammonite.$file.net_taint.find$OperationValue;@2546e043, lstrcat -> [Lammonite.$file.net_taint.find$OperationValue;@35b37f9, lstrcpyA -> [Lammonite.$file.net_taint.find$OperationValue;@78f2e70b, strcpy -> [Lammonite.$file.net_taint.find$OperationValue;@4274e21, lstrcpy -> [Lammonite.$file.net_taint.find$OperationValue;@16f1f21e, <operator>.assignmentPlus -> [Lammonite.$file.net_taint.find$OperationValue;@4c4ffbc6, lstrcpynA -> [Lammonite.$file.net_taint.find$OperationValue;@236a97fb, <operator>.assignmentMinus -> [Lammonite.$file.net_taint.find$OperationValue;@1d0283f1, lstrcatW -> [Lammonite.$file.net_taint.find$OperationValue;@47ae34d, memcpy -> [Lammonite.$file.net_taint.find$OperationValue;@3758b9cf, lstrcpyn -> [Lammonite.$file.net_taint.find$OperationValue;@40fa3590, lstrcpynW -> [Lammonite.$file.net_taint.find$OperationValue;@49ee3b75, wcscpy -> [Lammonite.$file.net_taint.find$OperationValue;@1a5dc98e, <operator>.assignment -> [Lammonite.$file.net_taint.find$OperationValue;@68b99dcb)
+[TIME] [indirectSourceOperations]: took 0.868263964 seconds
+[INFO] [STATUS]: Search indirectSourceOperationsCall
+[DEBUG]: HashMap(<operator>.preIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@35966a39, <operator>.addressOf -> [Lammonite.$file.net_taint.find$OperationValue;@1165fe85, <operator>.logicalNot -> [Lammonite.$file.net_taint.find$OperationValue;@1b8e36eb, <operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@44734d60, <operator>.lessThan -> [Lammonite.$file.net_taint.find$OperationValue;@42322075, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@7c1d7f60, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.greaterThan
+[TIME] [getCreatedSourceFunctions]: took 0.04557262 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3441E-5 seconds
+[DEBUG]: HashMap(<operator>.addressOf -> [Lammonite.$file.net_taint.find$OperationValue;@1165fe85, <operator>.logicalNot -> [Lammonite.$file.net_taint.find$OperationValue;@1b8e36eb, <operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@44734d60, <operator>.lessThan -> [Lammonite.$file.net_taint.find$OperationValue;@42322075, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@7c1d7f60, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.preIncrement
+[TIME] [getCreatedSourceFunctions]: took 0.045443509 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4562E-5 seconds
+[DEBUG]: HashMap(<operator>.logicalNot -> [Lammonite.$file.net_taint.find$OperationValue;@1b8e36eb, <operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@44734d60, <operator>.lessThan -> [Lammonite.$file.net_taint.find$OperationValue;@42322075, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@7c1d7f60, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.addressOf
+[TIME] [getCreatedSourceFunctions]: took 0.04676109 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4754E-5 seconds
+[DEBUG]: HashMap(<operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@44734d60, <operator>.lessThan -> [Lammonite.$file.net_taint.find$OperationValue;@42322075, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@7c1d7f60, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.logicalNot
+[TIME] [getCreatedSourceFunctions]: took 0.045598556 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2911E-5 seconds
+[DEBUG]: HashMap(<operator>.lessThan -> [Lammonite.$file.net_taint.find$OperationValue;@42322075, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@7c1d7f60, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.indirectFieldAccess
+[TIME] [getCreatedSourceFunctions]: took 0.054823042 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5877E-5 seconds
+[DEBUG]: HashMap(<operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@7c1d7f60, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.lessThan
+[TIME] [getCreatedSourceFunctions]: took 0.056205345 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5902E-5 seconds
+[DEBUG]: HashMap(<operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.indirectIndexAccess
+[TIME] [getCreatedSourceFunctions]: took 0.055512611 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5557E-5 seconds
+[DEBUG]: HashMap(<operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.fieldAccess
+[TIME] [getCreatedSourceFunctions]: took 0.051689102 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3313E-5 seconds
+[DEBUG]: HashMap(<operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.notEquals
+[TIME] [getCreatedSourceFunctions]: took 0.04777659 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.9196E-5 seconds
+[DEBUG]: HashMap(<operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.subtraction
+[TIME] [getCreatedSourceFunctions]: took 0.070212093 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.6221E-5 seconds
+[DEBUG]: HashMap(<operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.indirection
+[TIME] [getCreatedSourceFunctions]: took 0.046693245 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4613E-5 seconds
+[DEBUG]: HashMap(<operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.addition
+[TIME] [getCreatedSourceFunctions]: took 0.044559001 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5754E-5 seconds
+[DEBUG]: HashMap(<operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.lessEqualsThan
+[TIME] [getCreatedSourceFunctions]: took 0.045098251 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.569E-5 seconds
+[DEBUG]: HashMap(<operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.cast
+[TIME] [getCreatedSourceFunctions]: took 0.045830138 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5269E-5 seconds
+[DEBUG]: HashMap(<operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.equals
+[TIME] [getCreatedSourceFunctions]: took 0.045051401 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4697E-5 seconds
+[DEBUG]: HashMap(<operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[DEBUG]: Current Operation <operator>.greaterEqualsThan
+[TIME] [getCreatedSourceFunctions]: took 0.045646712 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3719E-5 seconds
+[DEBUG]: HashMap()
+[DEBUG]: Current Operation <operator>.postIncrement
+[TIME] [getCreatedSourceFunctions]: took 0.04639326 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2793E-5 seconds
+[INFO] [SIZE]: 17
+[DEBUG] [Operations]: HashMap(<operator>.greaterThan -> [Lammonite.$file.net_taint.find$OperationValue;@32b25cd9, <operator>.preIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@35966a39, <operator>.addressOf -> [Lammonite.$file.net_taint.find$OperationValue;@1165fe85, <operator>.logicalNot -> [Lammonite.$file.net_taint.find$OperationValue;@1b8e36eb, <operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@44734d60, <operator>.lessThan -> [Lammonite.$file.net_taint.find$OperationValue;@42322075, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@7c1d7f60, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@164e2766, <operator>.notEquals -> [Lammonite.$file.net_taint.find$OperationValue;@48887082, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@1bead06e, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@c9b5a0c, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@6b8939ee, <operator>.lessEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@600e587d, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@2daa8db2, <operator>.equals -> [Lammonite.$file.net_taint.find$OperationValue;@7b37f931, <operator>.greaterEqualsThan -> [Lammonite.$file.net_taint.find$OperationValue;@5953e9f0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@4b0c8f17)
+[TIME] [indirectSourceOperationsCall]: took 0.849632098 seconds
+[INFO] [STATUS]: Search subSourceCall
+[DEBUG]: HashMap(<operator>.addressOf -> [Lammonite.$file.net_taint.find$OperationValue;@3052ae97, <operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@1f09ebbd, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@3ffd2811, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@f6b348c, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@2ae815e0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@7aec4703, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.preIncrement
+[TIME] [getCreatedSourceFunctions]: took 0.045556257 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.3118E-5 seconds
+[DEBUG]: HashMap(<operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@1f09ebbd, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@3ffd2811, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@f6b348c, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@2ae815e0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@7aec4703, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.addressOf
+[TIME] [getCreatedSourceFunctions]: took 0.065403638 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4174E-5 seconds
+[DEBUG]: HashMap(<operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@3ffd2811, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@f6b348c, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@2ae815e0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@7aec4703, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.indirectFieldAccess
+[TIME] [getCreatedSourceFunctions]: took 0.062681566 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4985E-5 seconds
+[DEBUG]: HashMap(<operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@f6b348c, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@2ae815e0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@7aec4703, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.cast
+[TIME] [getCreatedSourceFunctions]: took 0.065814789 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2886E-5 seconds
+[DEBUG]: HashMap(<operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@2ae815e0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@7aec4703, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.indirectIndexAccess
+[TIME] [getCreatedSourceFunctions]: took 0.075431487 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4347E-5 seconds
+[DEBUG]: HashMap(<operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@7aec4703, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.fieldAccess
+[TIME] [getCreatedSourceFunctions]: took 0.080269276 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.5552E-5 seconds
+[DEBUG]: HashMap(<operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.postIncrement
+[TIME] [getCreatedSourceFunctions]: took 0.054506405 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2481E-5 seconds
+[DEBUG]: HashMap(<operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.subtraction
+[TIME] [getCreatedSourceFunctions]: took 0.057255083 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.4459E-5 seconds
+[DEBUG]: HashMap(<operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[DEBUG]: Current Operation <operator>.indirection
+[TIME] [getCreatedSourceFunctions]: took 0.046129513 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2552E-5 seconds
+[DEBUG]: HashMap()
+[DEBUG]: Current Operation <operator>.addition
+[TIME] [getCreatedSourceFunctions]: took 0.04712353 seconds
+[DEBUG] [GRAPH_SIZE]: 0
+[TIME] [map creatorCalls]: took 1.2788E-5 seconds
+[INFO] [SIZE]: 10
+[DEBUG] [Operations]: HashMap(<operator>.preIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@8ff1f5b, <operator>.addressOf -> [Lammonite.$file.net_taint.find$OperationValue;@3052ae97, <operator>.indirectFieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@1f09ebbd, <operator>.cast -> [Lammonite.$file.net_taint.find$OperationValue;@3ffd2811, <operator>.indirectIndexAccess -> [Lammonite.$file.net_taint.find$OperationValue;@f6b348c, <operator>.fieldAccess -> [Lammonite.$file.net_taint.find$OperationValue;@2ae815e0, <operator>.postIncrement -> [Lammonite.$file.net_taint.find$OperationValue;@7aec4703, <operator>.subtraction -> [Lammonite.$file.net_taint.find$OperationValue;@2c0755ef, <operator>.indirection -> [Lammonite.$file.net_taint.find$OperationValue;@7a1ecbb7, <operator>.addition -> [Lammonite.$file.net_taint.find$OperationValue;@10338601)
+[TIME] [subSourceCall]: took 0.605185131 seconds
+[INFO] [STATUS]: Tainting
+[INFO] [COUNT]: last count: 189
+[TIME] [GetIndirectSource]: took 1.691373686 seconds
+[TIME] [GetIndirectSourceCall]: took 2.384541471 seconds
+[TIME] [FollowSubSource]: took 1.883264001 seconds
+[TIME] [FollowFunctionCalls]: took 6.562926382 seconds
+[TIME] [UnzipFieldAccess]: took 9.874770167 seconds
+[TIME] [FindReturns]: took 3.769728123 seconds
+[TIME] [FollowReturns]: took 0.070595309 seconds
+[TIME] [LookForParameters]: took 4.222202235 seconds
+[TIME] [LookForParameterCalls]: took 0.012868825 seconds
+[TIME] [LookForReturnCalls]: took 0.012865414 seconds
+[INFO] [COUNT]: last count: 1367
+[TIME] [GetIndirectSource]: took 8.023959888 seconds
+[TIME] [GetIndirectSourceCall]: took 9.214477344 seconds
+[TIME] [FollowSubSource]: took 4.062157923 seconds
+[TIME] [FollowFunctionCalls]: took 9.949912459 seconds
+[TIME] [UnzipFieldAccess]: took 13.793471009 seconds
+[TIME] [FindReturns]: took 7.037948401 seconds
+[TIME] [FollowReturns]: took 0.075087373 seconds
+[TIME] [LookForParameters]: took 6.876241233 seconds
+[TIME] [LookForParameterCalls]: took 0.028184367 seconds
+[TIME] [LookForReturnCalls]: took 0.067130972 seconds
+[INFO] [COUNT]: last count: 4175
+[TIME] [GetIndirectSource]: took 11.866890609 seconds
+[TIME] [GetIndirectSourceCall]: took 10.319535613 seconds
+[TIME] [FollowSubSource]: took 5.074166284 seconds
+[TIME] [FollowFunctionCalls]: took 15.611606944 seconds
+[TIME] [UnzipFieldAccess]: took 21.27779254 seconds
+[TIME] [FindReturns]: took 10.53154998 seconds
+[TIME] [FollowReturns]: took 0.100459779 seconds
+[TIME] [LookForParameters]: took 9.645463233 seconds
+[TIME] [LookForParameterCalls]: took 0.082790698 seconds
+[TIME] [LookForReturnCalls]: took 0.088935751 seconds
+[INFO] [COUNT]: last count: 6904
+[TIME] [GetIndirectSource]: took 36.299680033 seconds
+[TIME] [GetIndirectSourceCall]: took 50.099326486 seconds
+[TIME] [FollowSubSource]: took 18.983280958 seconds
+[TIME] [FollowFunctionCalls]: took 94.336312206 seconds
+[TIME] [UnzipFieldAccess]: took 52.888705845 seconds
+[TIME] [FindReturns]: took 25.92875591 seconds
+[TIME] [FollowReturns]: took 0.699542747 seconds
+[TIME] [LookForParameters]: took 24.433494952 seconds
+[TIME] [LookForParameterCalls]: took 0.541183951 seconds
+[TIME] [LookForReturnCalls]: took 0.537232283 seconds
+[INFO] [COUNT]: last count: 45412
+[TIME] [GetIndirectSource]: took 133.105734437 seconds
+[TIME] [GetIndirectSourceCall]: took 181.748899163 seconds
+[TIME] [FollowSubSource]: took 47.562154732 seconds
+[TIME] [FollowFunctionCalls]: took 237.004252941 seconds
+[TIME] [UnzipFieldAccess]: took 110.382165103 seconds
+[TIME] [FindReturns]: took 58.379946418 seconds
+[TIME] [FollowReturns]: took 4.219772282 seconds
+[TIME] [LookForParameters]: took 57.323055175 seconds
+[TIME] [LookForParameterCalls]: took 3.067022199 seconds
+[TIME] [LookForReturnCalls]: took 2.988510638 seconds
+[INFO] [COUNT]: last count: 158587
+[TIME] [GetIndirectSource]: took 2732.173060444 seconds
+[TIME] [GetIndirectSourceCall]: took 3442.67534318 seconds
+[TIME] [FollowSubSource]: took 79.458321867 seconds
+[TIME] [FollowFunctionCalls]: took 268.469192332 seconds
+[TIME] [UnzipFieldAccess]: took 136.067001057 seconds
+[TIME] [FindReturns]: took 82.18632573 seconds
+[TIME] [FollowReturns]: took 102.940649087 seconds
+[TIME] [LookForParameters]: took 88.708782929 seconds
+[TIME] [LookForParameterCalls]: took 24.996513307 seconds
+[TIME] [LookForReturnCalls]: took 26.440254928 seconds
+[INFO] [COUNT]: last count: 2589085
+[TIME] [GetIndirectSource]: took 2666.269975618 seconds
+[TIME] [GetIndirectSourceCall]: took 3506.698086326 seconds
+[TIME] [FollowSubSource]: took 76.781836303 seconds
+[TIME] [FollowFunctionCalls]: took 287.426760274 seconds
+[TIME] [UnzipFieldAccess]: took 140.330130573 seconds
+[TIME] [FindReturns]: took 88.550848851 seconds
+[TIME] [FollowReturns]: took 100.580154665 seconds
+[TIME] [LookForParameters]: took 76.775459225 seconds
+[TIME] [LookForParameterCalls]: took 25.769603123 seconds
+[TIME] [LookForReturnCalls]: took 28.518809734 seconds
+[INFO] [COUNT]: last count: 2596047
+[TIME] [GetIndirectSource]: took 2799.778174119 seconds
+[TIME] [GetIndirectSourceCall]: took 3475.369174223 seconds
+[TIME] [FollowSubSource]: took 83.756241119 seconds
+[TIME] [FollowFunctionCalls]: took 300.938714164 seconds
+[TIME] [UnzipFieldAccess]: took 160.873084245 seconds
+[TIME] [FindReturns]: took 103.632407479 seconds
+[TIME] [FollowReturns]: took 98.945336223 seconds
+[TIME] [LookForParameters]: took 95.583422114 seconds
+[TIME] [LookForParameterCalls]: took 25.579153261 seconds
+[TIME] [LookForReturnCalls]: took 32.422884414 seconds
+[INFO] [COUNT]: last count: 2598913
+[TIME] [GetIndirectSource]: took 2847.567385105 seconds
+[TIME] [GetIndirectSourceCall]: took 3469.880118138 seconds
+[TIME] [FollowSubSource]: took 80.682730128 seconds
+[TIME] [FollowFunctionCalls]: took 292.04131832 seconds
+[TIME] [UnzipFieldAccess]: took 158.886479684 seconds
+[TIME] [FindReturns]: took 101.202433885 seconds
+[TIME] [FollowReturns]: took 93.816346994 seconds
+[TIME] [LookForParameters]: took 89.395054857 seconds
+[TIME] [LookForParameterCalls]: took 36.660898479 seconds
+[TIME] [LookForReturnCalls]: took 32.076558693 seconds
+[INFO] [COUNT]: last count: 2605065
+[TIME] [GetIndirectSource]: took 2839.371598097 seconds
+[TIME] [GetIndirectSourceCall]: took 3503.717673944 seconds
+[TIME] [FollowSubSource]: took 64.282373841 seconds
+[TIME] [FollowFunctionCalls]: took 286.244598842 seconds
+[TIME] [UnzipFieldAccess]: took 125.074492832 seconds
+[TIME] [FindReturns]: took 91.636762377 seconds
+[TIME] [FollowReturns]: took 86.093718578 seconds
+[TIME] [LookForParameters]: took 79.147576433 seconds
+[TIME] [LookForParameterCalls]: took 26.406157885 seconds
+[TIME] [LookForReturnCalls]: took 28.292476822 seconds
+[INFO] [COUNT]: last count: 2605769
+[TIME] [GetIndirectSource]: took 2739.328822526 seconds
+[TIME] [GetIndirectSourceCall]: took 3530.956732354 seconds
+[TIME] [FollowSubSource]: took 57.517671325 seconds
+[TIME] [FollowFunctionCalls]: took 279.833240463 seconds
+[TIME] [UnzipFieldAccess]: took 159.321413266 seconds
+[TIME] [FindReturns]: took 85.186399413 seconds
+[TIME] [FollowReturns]: took 103.154185143 seconds
+[TIME] [LookForParameters]: took 77.871691355 seconds
+[TIME] [LookForParameterCalls]: took 31.710164761 seconds
+[TIME] [LookForReturnCalls]: took 23.804725225 seconds
+[INFO] [COUNT]: last count: 2605950
+[TIME] [GetIndirectSource]: took 2387.087545829 seconds
+[TIME] [GetIndirectSourceCall]: took 3525.045324815 seconds
+[TIME] [FollowSubSource]: took 79.458628251 seconds
+[TIME] [FollowFunctionCalls]: took 290.085110133 seconds
+[TIME] [UnzipFieldAccess]: took 138.184035917 seconds
+[TIME] [FindReturns]: took 90.141007441 seconds
+[TIME] [FollowReturns]: took 88.835494527 seconds
+[TIME] [LookForParameters]: took 84.327272007 seconds
+[TIME] [LookForParameterCalls]: took 34.856537745 seconds
+[TIME] [LookForReturnCalls]: took 24.460655066 seconds
+[INFO] [COUNT]: last count: 2605951
+[TIME] [GetIndirectSource]: took 2136.615636406 seconds
+[TIME] [GetIndirectSourceCall]: took 3518.336818656 seconds
+[TIME] [FollowSubSource]: took 69.828242275 seconds
+[TIME] [FollowFunctionCalls]: took 275.709496401 seconds
+[TIME] [UnzipFieldAccess]: took 131.173142357 seconds
+[TIME] [FindReturns]: took 74.748322564 seconds
+[TIME] [FollowReturns]: took 95.470211394 seconds
+[TIME] [LookForParameters]: took 86.133907797 seconds
+[TIME] [LookForParameterCalls]: took 34.776848682 seconds
+[TIME] [LookForReturnCalls]: took 28.56003024 seconds
+[INFO] [STATUS]: Sinking
+[INFO] [STATUS]: Weighting
+[INFO] [STATUS]: Outputting
+res1: Any = ()
+
+[9999D[0Jjoern>

@@ -1,0 +1,530 @@
+Found 150 sink. 
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1869 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#654 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2293 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2278 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1869 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#671 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2293 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2293 
+\"strlen(a[s+2])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1881 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2278 
+\"strlen(a[s+2])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1881 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2278 
+\"strlen(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1941 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1501 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1420 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2042 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2298 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1957 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1917 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2439 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2280 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1426 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1817 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1249 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2318 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1420 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1972 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2280 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2126 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1956 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1432 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1808 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2297 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2313 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1949 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1424 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2406 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2202 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2229 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2299 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2281 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1237 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1930 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2283 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2407 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2231 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#612 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1808 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2438 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1930 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1421 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1940 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2296 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1274 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1991 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2282 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2319 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2531 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2410 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1916 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2204 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1434 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1808 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2010 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1949 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1896 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1950 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2467 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2320 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2464 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1817 
+\"atoi(a[s+6])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2296 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1971 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2437 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#811 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2277 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2499 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1144 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1817 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2292 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1425 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1817 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#867 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1990 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2096 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1931 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1249 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1956 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1916 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2255 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1940 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2408 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2256 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#588 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#867 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2323 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1423 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1432 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1274 
+\"atoi(a[s+1])\"
+
+22.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#69 
+\"strcpy(file,file_to_send)\"
+
+21.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2501 
+\"strcpy(recp_email,a[s+4])\"
+
+21.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2502 
+\"strcpy(subject,replacestr(a[s+5],\"_\",\" \"))\"
+
+21.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2500 
+\"strcpy(sender_email,a[s+3])\"
+
+21.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2498 
+\"strcpy(server,a[s+1])\"
+
+20.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#73 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#158 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#652 
+\"strlen(password)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#559 
+\"strlen(nick)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#157 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#650 
+\"strlen(password)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#730 
+\"strlen(aliases[i].name)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1283 
+\"strlen(httpd.dir)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#509 
+\"strlen(newnck)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#509 
+\"strlen(ih)\"
+
+19.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1284 
+\"strlen(httpd.dir)\"
+
+18.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#1408 
+\"atoi(a[i])\"
+
+17.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rlogind.cpp#102 
+\"strcpy(HostName, HostEnt->h_name)\"
+
+14.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#73 
+\"strlen(httpd.dir)\"
+
+14.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#67 
+\"strlen(rBuffer)\"
+
+11.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#49 
+\"strcpy(reqbuf, \"SEARCH /\")\"
+
+11.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#495 
+\"strcpy(&masters[i][1],newnck)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#42 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/sub7.cpp#59 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#2518 
+\"strlen(myBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#64 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/misc.cpp#50 
+\"strlen(repstr)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#65 
+\"strlen(reqbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#145 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#98 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#59 
+\"strlen(jumpcode)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#315 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/dameware.cpp#105 
+\"strlen((char *)send_buff)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/optix.cpp#122 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#62 
+\"strlen(reqbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/optix.cpp#40 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/ident.cpp#41 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/misc.cpp#70 
+\"strlen(inStr)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#162 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#66 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#57 
+\"strlen(jumpcode)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#64 
+\"strlen(reqbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#41 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#416 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/optix.cpp#60 
+\"strlen(szBuffer)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#50 
+\"strlen(reqbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/dameware.cpp#113 
+\"strlen((char *)szReqBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#66 
+\"strlen(reqbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#67 
+\"strlen(reqbuf)\"
+
+8.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#45 
+\"atoi(uPort)\"
+
+8.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/dameware.cpp#181 
+\"atoi(&recv_buff[37])\"
+
+
+Found 26 methods. 
+2027.8781539788656: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#362 
+\"int irc_parseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,char *server,char masters[][128],char *host,int *in_channel,int repeat,int spy)\"
+
+42.0: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/threads.cpp#6 
+\"int addthread (char *name,int id,SOCKET sock)\"
+
+40.1219512195122: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/misc.cpp#62 
+\"int Split (char *inStr,void *saveArray)\"
+
+31.48148148148148: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/threads.cpp#154 
+\"void clearthread (int threadnum)\"
+
+30.882978723404257: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/session.cpp#195 
+\"void SessionWriteShellThread (LPVOID param)\"
+
+24.253886010362695: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/socks4.cpp#61 
+\"WINAPI Socks4ClientThread (LPVOID param)\"
+
+17.050847457627118: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/webdav.cpp#14 
+\"BOOL webdav (EXINFO exinfo)\"
+
+14.205882352941176: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#143 
+\"int Check_Requested_File (SOCKET sock,char *dir,char *rFile,BOOL dirinfo,int threadnum)\"
+
+13.721238938053098: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/httpd.cpp#7 
+\"WINAPI HTTP_Server_Thread (LPVOID param)\"
+
+13.31132075471698: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/advscan.cpp#384 
+\"WINAPI AdvScanner (LPVOID param)\"
+
+11.78048780487805: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/wildcard.cpp#7 
+\"int wildcardfit (char *wildcard,char *test)\"
+
+11.444444444444445: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/advscan.cpp#95 
+\"void CheckServers (ADVSCAN scan)\"
+
+10.029126213592233: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/dameware.cpp#154 
+\"int check_os (char *host,unsigned short target_port,int *sp)\"
+
+9.763546798029557: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/dameware.cpp#54 
+\"BOOL DameWare (EXINFO exinfo)\"
+
+8.982142857142858: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/advscan.cpp#223 
+\"BOOL SynPortOpen (unsigned long src_ip,unsigned long dest_ip,unsigned int port,unsigned int delay)\"
+
+8.679012345679013: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/tftpd.cpp#7 
+\"WINAPI tftpserver (LPVOID param)\"
+
+8.608695652173912: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#296 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,SOCKET hsock,char *hchannel,char *server,int spy)\"
+
+8.5: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/download.cpp#156 
+\"char* Xorbuff (char *buffer,int bufferLen)\"
+
+8.181818181818182: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rlogind.cpp#11 
+\"BOOL GetStr (SOCKET Socket,char *buffer,int cnt)\"
+
+7.391304347826087: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rBot.cpp#240 
+\"WINAPI irc_connect (LPVOID param)\"
+
+7.207920792079208: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/redirect.cpp#61 
+\"WINAPI RedirectLoopThread (LPVOID param)\"
+
+5.827956989247312: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/socks4.cpp#7 
+\"WINAPI Socks4Thread (LPVOID param)\"
+
+4.56989247311828: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/netdevil.cpp#25 
+\"int NetDevil_Upload (char *IP,SOCKET ssock)\"
+
+3.2151898734177213: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/redirect.cpp#8 
+\"WINAPI RedirectThread (LPVOID param)\"
+
+3.1092436974789917: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rlogind.cpp#127 
+\"WINAPI RlogindThread (LPVOID param)\"
+
+2.585185185185185: /home/D_K/BA/theZoo2/rBot0.3.3_May2004/rBot 0.3.3 - May 2004/rlogind.cpp#61 
+\"WINAPI RlogindClientThread (LPVOID param)\"

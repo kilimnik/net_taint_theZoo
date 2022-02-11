@@ -1,0 +1,17 @@
+Found 4 sink. 
+26.0: /home/D_K/BA/theZoo2/ShadowBot_Sep2008/ShadowBot - Sep 2008/ShadowBotDLL.cpp#149 
+\"strcpy(fileto,rndx(6))\"
+
+9.0: /home/D_K/BA/theZoo2/ShadowBot_Sep2008/ShadowBot - Sep 2008/ShadowBotDLL.cpp#234 
+\"strlen (buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/ShadowBot_Sep2008/ShadowBot - Sep 2008/ShadowBotDLL.cpp#232 
+\"strlen (buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/ShadowBot_Sep2008/ShadowBot - Sep 2008/ShadowBotDLL.cpp#237 
+\"strlen (buffer)\"
+
+
+Found 1 methods. 
+14.64102564102564: /home/D_K/BA/theZoo2/ShadowBot_Sep2008/ShadowBot - Sep 2008/ShadowBotDLL.cpp#106 
+\"void parseethafuck (char *commands)\"

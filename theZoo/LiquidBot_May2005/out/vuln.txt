@@ -1,0 +1,428 @@
+Found 121 sink. 
+31.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1533 
+\"strcpy(IMmsg, \"\")\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2002 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1617 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2017 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2002 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2017 
+\"strlen(a[s+2])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#391 
+\"strlen(file)\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2002 
+\"strlen(a[s+2])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#721 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#704 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1605 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1605 
+\"strlen(a[s])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1617 
+\"strlen(a[s+1])\"
+
+24.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2017 
+\"strlen(a[s])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1686 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1707 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1953 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1746 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1384 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2042 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1685 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1667 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#861 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1676 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2047 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1373 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1676 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1244 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1692 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2001 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1692 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1244 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1653 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1825 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1677 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1370 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2006 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2255 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2007 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2004 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1980 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2134 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2020 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2132 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1928 
+\"atoi(a[s+5])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2043 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1693 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1726 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1955 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1708 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1795 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1382 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2223 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2131 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1374 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2021 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2022 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1727 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1666 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2037 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2023 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1632 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1685 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1376 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2163 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2005 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2016 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2004 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1778 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1979 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1652 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1145 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1926 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2161 
+\"atoi(a[s+2])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1382 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2188 
+\"atoi(a[s+4])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1375 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1370 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2191 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1371 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1652 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2020 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1666 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2162 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2044 
+\"atoi(a[s+3])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1233 
+\"atoi(a[s+1])\"
+
+23.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2130 
+\"atoi(a[s+2])\"
+
+21.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2226 
+\"strcpy(subject,replacestr(a[s+5],\"_\",\" \"))\"
+
+21.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2222 
+\"strcpy(server,a[s+1])\"
+
+21.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2225 
+\"strcpy(recp_email,a[s+4])\"
+
+21.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#69 
+\"strcpy(file,file_to_send)\"
+
+21.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2224 
+\"strcpy(sender_email,a[s+3])\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#614 
+\"strlen(newnck)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#700 
+\"strlen(password)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1253 
+\"strlen(httpd.dir)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/irc_send.cpp#34 
+\"strlen(dest)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1254 
+\"strlen(httpd.dir)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#157 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#73 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#780 
+\"strlen(aliases[i].name)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#664 
+\"strlen(nick)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#158 
+\"strlen(file)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#614 
+\"strlen(ih)\"
+
+19.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#702 
+\"strlen(password)\"
+
+18.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#1358 
+\"atoi(a[i])\"
+
+14.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#67 
+\"strlen(rBuffer)\"
+
+14.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#73 
+\"strlen(httpd.dir)\"
+
+11.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#600 
+\"strcpy(&masters[i][1],newnck)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#420 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#335 
+\"strlen((const char*)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#2242 
+\"strlen(myBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#329 
+\"strlen((const char *)sc)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#303 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#416 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#306 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/ident.cpp#41 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#304 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#309 
+\"strlen(hostipc)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/irc_send.cpp#37 
+\"strlen(msgbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#64 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#349 
+\"strlen((const char*)sc)\"
+
+
+Found 21 methods. 
+1642.5508826583593: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#467 
+\"int irc_parseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,char *server,char masters[][128],char *host,int *in_channel,int repeat,int spy)\"
+
+42.0: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/threads.cpp#6 
+\"int addthread (char *name,int id,SOCKET sock)\"
+
+32.61693548387097: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#260 
+\"bool Exploit2 (EXINFO exinfo,SOCKET sockfd,int which)\"
+
+31.48148148148148: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/threads.cpp#153 
+\"void clearthread (int threadnum)\"
+
+18.383783783783784: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/advscan.cpp#103 
+\"void CheckServers (ADVSCAN scan)\"
+
+17.625: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/fphost.cpp#23 
+\"bool MemContains (const char *pMem,const int iMemLen,const char *pSearch,const int iSearchLen)\"
+
+15.333333333333334: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#389 
+\"char* File_To_HTML (char *file)\"
+
+15.030973451327434: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#7 
+\"WINAPI HTTP_Server_Thread (LPVOID param)\"
+
+14.794117647058824: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/httpd.cpp#143 
+\"int Check_Requested_File (SOCKET sock,char *dir,char *rFile,BOOL dirinfo,int threadnum)\"
+
+13.31132075471698: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/advscan.cpp#423 
+\"WINAPI AdvScanner (LPVOID param)\"
+
+9.169565217391304: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/tftpd.cpp#7 
+\"WINAPI tftpserver (LPVOID param)\"
+
+8.982142857142858: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/advscan.cpp#262 
+\"BOOL SynPortOpen (unsigned long src_ip,unsigned long dest_ip,unsigned int port,unsigned int delay)\"
+
+8.608695652173912: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/Liquid.cpp#401 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,SOCKET hsock,char *hchannel,char *server,int spy)\"
+
+8.5: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/download.cpp#156 
+\"char* Xorbuff (char *buffer,int bufferLen)\"
+
+7.207920792079208: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/redirect.cpp#61 
+\"WINAPI RedirectLoopThread (LPVOID param)\"
+
+6.352941176470588: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/irc_send.cpp#25 
+\"void irc_privmsg (SOCKET sock,char *dest,char *msg,BOOL notice,BOOL delay)\"
+
+5.728571428571429: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#406 
+\"BOOL Lsass (EXINFO exinfo)\"
+
+3.2151898734177213: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/redirect.cpp#8 
+\"WINAPI RedirectThread (LPVOID param)\"
+
+2.8333333333333335: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/advscan.cpp#85 
+\"void currentIP (SOCKET sock,char *chan,BOOL notice,int threadnum)\"
+
+2.5121951219512195: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass.cpp#216 
+\"bool ConnectShell (EXINFO exinfo)\"
+
+2.4918032786885247: /home/D_K/BA/theZoo2/LiquidBot_May2005/LiquidBot - May 2005/source/lsass2.cpp#169 
+\"BOOL lsass2 (EXINFO exinfo)\"

@@ -1,0 +1,8 @@
+Found 1 sink. 
+8.0: /home/D_K/BA/theZoo2/Alina/Alina POS/Source/grab/PanelRequest.cpp#159 
+\"atoi(sc)\"
+
+
+Found 1 methods. 
+3.015151515151515: /home/D_K/BA/theZoo2/Alina/Alina POS/Source/grab/PanelRequest.cpp#117 
+\"unsigned int httpRequest (const char *host,const char *path,unsigned short port,const char *useragent,const char *postdata,unsigned int pdatalen,char **response,unsigned int *rlen)\"

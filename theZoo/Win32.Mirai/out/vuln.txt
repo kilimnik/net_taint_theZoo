@@ -1,0 +1,56 @@
+Found 8 sink. 
+24.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#592 
+\"strlen(bufStr)\"
+
+14.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#939 
+\"strlen(CleanDevice)\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#852 
+\"strlen(tel_usernames[fds[i].usernameInd])\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.eragon.c#1042 
+\"strlen(usernames[fds[i].usernameInd])\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#888 
+\"strlen(tel_passwords[fds[i].passwordInd])\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.eragon.c#1068 
+\"strlen(passwords[fds[i].passwordInd])\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.Eragon2.0.c#1204 
+\"strlen(usernames[fds[i].usernameInd])\"
+
+9.0: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.Eragon2.0.c#1230 
+\"strlen(passwords[fds[i].passwordInd])\"
+
+
+Found 10 methods. 
+451.1833648393195: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#717 
+\"void TelnetScanner (int wait_usec,int maxfds)\"
+
+370.76222222222225: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.Eragon2.0.c#1098 
+\"void botnetTScan (int wait_usec,int maxfds)\"
+
+370.76222222222225: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.eragon.c#936 
+\"void botnetTScan (int wait_usec,int maxfds)\"
+
+87.27777777777777: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#590 
+\"int matchPrompt (char *bufStr)\"
+
+15.326086956521738: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#567 
+\"int negotiate (int sock,unsigned char *buf,int len)\"
+
+4.5: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.eragon.c#571 
+\"int read_until_response (int fd,int timeout_usec,char* buffer,int buf_size,char** strings)\"
+
+4.5: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.Eragon2.0.c#733 
+\"int read_until_response (int fd,int timeout_usec,char* buffer,int buf_size,char** strings)\"
+
+4.5: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.yakuza.c#269 
+\"int read_until_response (int fd,int timeout_usec,char* buffer,int buf_size,char** strings)\"
+
+3.1264367816091956: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.Eragon2.0.c#819 
+\"int readUntil (int fd,char *toFind,int matchLePrompt,int timeout,int timeoutusec,char *buffer,int bufSize,int initialIndex)\"
+
+3.1264367816091956: /home/D_K/BA/theZoo2/Win32.Mirai/Mirai.Linux.eragon.c#657 
+\"int readUntil (int fd,char *toFind,int matchLePrompt,int timeout,int timeoutusec,char *buffer,int bufSize,int initialIndex)\"

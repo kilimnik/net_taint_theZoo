@@ -1,0 +1,177 @@
+Found 1349 nodes.
+Found 16 sink. 
+22.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1955 
+\"strcpy((PCHAR)(MailLists[dwMailListIndex].cEmail[MailLists[dwMailListIndex].dwEmailCount - 1]), cTmpBuf)\"
+
+14.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#2058 
+\"strlen(cText)\"
+
+14.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#685 
+\"strlen(str)\"
+
+14.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#2032 
+\"strlen(cRealIp)\"
+
+14.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#2002 
+\"strlen(cRealIp)\"
+
+14.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1944 
+\"strlen(cTmpBuf)\"
+
+13.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1996 
+\"atoi(cTmpBuf)\"
+
+11.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#602 
+\"strcpy(cInput, cTmpBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1513 
+\"strlen(cBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#600 
+\"strlen(cInput)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1473 
+\"strlen(cBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1490 
+\"strlen(cBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#599 
+\"strlen(cFindStrPos)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1513 
+\"strlen(cBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1473 
+\"strlen(cBuf)\"
+
+9.0: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1490 
+\"strlen(cBuf)\"
+
+Found 42 methods. 
+27.257142857142856: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#589 
+\"bool ReplaceStringUsingBuf (char * cInput,char * cFindStr,char * cReplaceStr,char * cTmpBuf)\"
+
+26.458333333333332: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#777 
+\"int mx_decode_domain (char *buf,int pos,int len,char *out)\"
+
+18.39080459770115: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#821 
+\"struct mx_rrlist_t mx_parse_rr (char *buf,int reply_len)\"
+
+18.160919540229884: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#821 
+\"struct mx_rrlist_t mx_parse_rr (char *buf,int reply_len)\"
+
+10.5: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1266 
+\"int CustomInternetReadFile (char * sServer,DWORD dwPort,char * sPage,char * Buf,int BufLen)\"
+
+10.5: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1266 
+\"int CustomInternetReadFile (char * sServer,DWORD dwPort,char * sPage,char * Buf,int BufLen)\"
+
+10.080536912751677: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1962 
+\"bool ParseTask (char * Buf,DWORD dwBufLen)\"
+
+9.683544303797468: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1913 
+\"bool ParseMailsList (DWORD dwMailListIndex,char * Buf)\"
+
+8.719101123595506: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1428 
+\"int smtp_send (char * cMsg,DWORD dwMessageLength,char * cServer,char * cFromServer,char * cFromName,char * cFromEmail,char * cPassword,char * cRecepient,char * cReplaceBuffer)\"
+
+8.719101123595506: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1428 
+\"int smtp_send (char * cMsg,DWORD dwMessageLength,char * cServer,char * cFromServer,char * cFromName,char * cFromEmail,char * cPassword,char * cRecepient,char * cReplaceBuffer)\"
+
+8.25: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#683 
+\"char* decrypturl (char *str,char *key)\"
+
+6.473684210526316: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1102 
+\"int GetContentLength (char * Buf)\"
+
+6.333333333333333: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#759 
+\"int mx_skipqn (char *buf,int pos,int len,struct dnsreq_t *reply_hdr)\"
+
+5.511111111111111: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#867 
+\"struct mxlist_t my_get_mx_list2 (struct sockaddr_in *dns_addr,const char *domain,int *err_stat)\"
+
+5.511111111111111: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#867 
+\"struct mxlist_t my_get_mx_list2 (struct sockaddr_in *dns_addr,const char *domain,int *err_stat)\"
+
+5.21875: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1296 
+\"DWORD HttpSay (char * cServer,char * cPage,char * cMethod,char * cReferer,char * cAdditionalHeader,DWORD dwAdditionalHeaderSize,char * cPostData,DWORD dwPostDataSize,char * cOutData,DWORD dwOutDataSize,bool bSecure,char * cUserAgent = NULL)\"
+
+5.21875: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1296 
+\"DWORD HttpSay (char * cServer,char * cPage,char * cMethod,char * cReferer,char * cAdditionalHeader,DWORD dwAdditionalHeaderSize,char * cPostData,DWORD dwPostDataSize,char * cOutData,DWORD dwOutDataSize,bool bSecure,char * cUserAgent = NULL)\"
+
+4.542857142857143: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1170 
+\"int CustomInternetReadRawData (char * sServer,DWORD dwPort,char * sPage,char * Buf,int BufLen)\"
+
+4.542857142857143: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1170 
+\"int CustomInternetReadRawData (char * sServer,DWORD dwPort,char * sPage,char * Buf,int BufLen)\"
+
+2.89922480620155: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#2097 
+\"void ExecuteConfig (char * Buf)\"
+
+2.3125: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#564 
+\"bool ExtractData (char * cSource,char * cDivider,char * cDestination,DWORD dwSizeOfDestination)\"
+
+2.248062015503876: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#2097 
+\"void ExecuteConfig (char * Buf)\"
+
+2.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1059 
+\"int count_mx_list (struct mxlist_t *p)\"
+
+1.5: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#810 
+\"void mx_free_rrlist (struct mx_rrlist_t *p)\"
+
+1.0434782608695652: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1069 
+\"struct mxlist_t get_mx_list (const char *domain)\"
+
+1.0434782608695652: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1069 
+\"struct mxlist_t get_mx_list (const char *domain)\"
+
+1.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1815 
+\"bool Check25 ()\"
+
+1.0: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1815 
+\"bool Check25 ()\"
+
+0.5: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#2244 
+\"bool GetMailsList (DWORD dwMailListIndex)\"
+
+0.5: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#2244 
+\"bool GetMailsList (DWORD dwMailListIndex)\"
+
+0.46153846153846156: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#2290 
+\"int GetTask ()\"
+
+0.46153846153846156: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#2290 
+\"int GetTask ()\"
+
+0.4: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#969 
+\"struct mxlist_t my_get_mx_list (struct sockaddr_in *dns_addr,const char *domain)\"
+
+0.4: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#969 
+\"struct mxlist_t my_get_mx_list (struct sockaddr_in *dns_addr,const char *domain)\"
+
+0.047619047619047616: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#1013 
+\"struct mxlist_t getmx_mydns (const char *domain)\"
+
+0.047619047619047616: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#1013 
+\"struct mxlist_t getmx_mydns (const char *domain)\"
+
+0.028368794326241134: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#2898 
+\"unsigned int SpamSupportThread (LPVOID tParam)\"
+
+0.028368794326241134: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#2898 
+\"unsigned int SpamSupportThread (LPVOID tParam)\"
+
+0.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#3006 
+\"unsigned int DoS1Thread (LPVOID tParam)\"
+
+0.0: /home/D_K/BA/theZoo2/Grum/grum/main.cpp#338 
+\"DWORD SaveBufToFile (char * FileName,char * Buf,DWORD dwBufSize,bool bAppend)\"
+
+0.0: /home/D_K/BA/theZoo2/Grum/grum/grum/main.cpp#3006 
+\"unsigned int DoS1Thread (LPVOID tParam)\"
+
+0.0: /home/D_K/BA/theZoo2/Grum/grum/ntdll.h#668 
+\"int sprintf (LPTSTR lpOut,LPCTSTR lpFmt...)\"
+

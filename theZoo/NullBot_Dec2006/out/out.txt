@@ -1,0 +1,48 @@
+Found 225 nodes.
+Found 5 sink. 
+17.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#191 
+\"strcpy(sWorkgroup,(char*)&(szRecvBuf[iRecvd+1]))\"
+
+17.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#192 
+\"strcpy(sServer,(char*)&(szRecvBuf[iRecvd+1]))\"
+
+17.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#193 
+\"strcpy(sOS,(char*)&(szRecvBuf[iRecvd+1]))\"
+
+9.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/nullbot.cpp#411 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/nullbot.cpp#400 
+\"strlen(login)\"
+
+Found 10 methods. 
+17.625: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#43 
+\"bool MemContains (const char *pMem,const int iMemLen,const char *pSearch,const int iSearchLen)\"
+
+9.605042016806722: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/hostcheck.cpp#52 
+\"int FpHost (const char *szHost,int iFpType)\"
+
+3.1818181818181817: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/nullbot.cpp#385 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,char *server)\"
+
+1.3987341772151898: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/psniff.cpp#142 
+\"WINAPI SniffThread (LPVOID param)\"
+
+0.6938775510204082: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/advscan.cpp#47 
+\"BOOL ConnectShell (EXINFO exinfo,unsigned int connectport)\"
+
+0.2816326530612245: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/ftpd.cpp#13 
+\"WINAPI ftpd (LPVOID pParam)\"
+
+0.047619047619047616: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/download.cpp#6 
+\"WINAPI webdownload (LPVOID param)\"
+
+0.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/other.h#3 
+\"int Split (char *inStr,void *saveArray)\"
+
+0.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/other.h#9 
+\"int wildcardfit (char *wildcard,char *test)\"
+
+0.0: /home/D_K/BA/theZoo2/NullBot_Dec2006/NullBot - Dec 2006/nullbot.cpp#451 
+\"int irc_parseline (char *line,SOCKET sock,char *channel,char *chanpass,char *nick1,char *server,char *master,char *host,int *in_channel,int repeat)\"
+

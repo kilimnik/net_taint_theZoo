@@ -1,0 +1,566 @@
+Found 166 sink. 
+39.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#485 
+\"strcpy(cFinalCommand, cParseLine)\"
+
+39.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#485 
+\"strcpy(cFinalCommand, cParseLine)\"
+
+31.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#472 
+\"strlen(cParseLine)\"
+
+31.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#473 
+\"strlen(cParseLine)\"
+
+31.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#472 
+\"strlen(cParseLine)\"
+
+31.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#473 
+\"strlen(cParseLine)\"
+
+30.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#462 
+\"atoi(cParseLine)\"
+
+30.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#480 
+\"atoi(cTaskId)\"
+
+30.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#459 
+\"atoi(cParseLine)\"
+
+30.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#480 
+\"atoi(cTaskId)\"
+
+30.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#459 
+\"atoi(cParseLine)\"
+
+30.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#462 
+\"atoi(cParseLine)\"
+
+29.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/IrcWar/SendData.cpp#10 
+\"strcpy(cSendData, pcSendData)\"
+
+27.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#218 
+\"strcpy(cOutputData, cDecryptedB)\"
+
+27.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#218 
+\"strcpy(cOutputData, cDecryptedB)\"
+
+27.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/IrcWar/SendData.cpp#15 
+\"strlen(cSendData)\"
+
+27.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#450 
+\"strcpy(cRawMessage, cDecrypted)\"
+
+27.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#450 
+\"strcpy(cRawMessage, cDecrypted)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#468 
+\"strlen(cRawMessage)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#469 
+\"strlen(cRawMessage)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#468 
+\"strlen(strstr(cRawMessage, \"command\"))\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#457 
+\"strlen(cRawMessage)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#468 
+\"strlen(strstr(cRawMessage, \"command\"))\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#468 
+\"strlen(cRawMessage)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#457 
+\"strlen(cRawMessage)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#478 
+\"strlen(cRawMessage)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#469 
+\"strlen(cRawMessage)\"
+
+25.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#478 
+\"strlen(cRawMessage)\"
+
+24.0: /home/D_K/BA/theZoo2/Athena/Source - Build Config Encrypt/Encryption/RC4.cpp#42 
+\"strlen(cDataEncrypted)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#596 
+\"strcpy(cOutput, \"INVALID RESPONSE\")\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#424 
+\"strcpy(cBuild, cIrcCommandPrivmsg)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#225 
+\"strcpy(cFtpHost, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#720 
+\"strcpy(cRedirectToHost, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#415 
+\"strcpy(cBuild, cIrcCommandPart)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#240 
+\"strcpy(cFtpPass, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#408 
+\"strcpy(cBuild, cIrcCommandJoin)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#59 
+\"strcpy(cDecryptedCommand, DecryptCommand(pcArguments))\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#602 
+\"strcpy(cOutput, pcHttpRequestStatus)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/IrcWar/AutonomousFloods.cpp#218 
+\"strcpy(cWarFloodTargetParam, pcParam)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Http.cpp#596 
+\"strcpy(cOutput, \"INVALID RESPONSE\")\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/General/Botkiller.cpp#12 
+\"strcpy(cZoneIdentifierPath, cFilePath)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#240 
+\"strcpy(cFtpPass, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#403 
+\"strcpy(cBuild, pcArguments)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#366 
+\"strcpy(cRemoteHost, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#126 
+\"strcpy(szMd5Match, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#234 
+\"strcpy(cFtpUser, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#424 
+\"strcpy(cBuild, cIrcCommandPrivmsg)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#603 
+\"strcpy(cTargetUrl, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#720 
+\"strcpy(cRedirectToHost, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#126 
+\"strcpy(szMd5Match, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#109 
+\"strcpy(cDownloadFromLocation, pcArguments)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#603 
+\"strcpy(cTargetUrl, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#366 
+\"strcpy(cRemoteHost, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#225 
+\"strcpy(cFtpHost, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#234 
+\"strcpy(cFtpUser, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#709 
+\"strcpy(cOriginalHost, pcBreakString)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/IrcWar/AutonomousFloods.cpp#207 
+\"strcpy(cWarFloodTargetParam, pcParam)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#59 
+\"strcpy(cDecryptedCommand, DecryptCommand(pcArguments))\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#408 
+\"strcpy(cBuild, cIrcCommandJoin)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Http.cpp#602 
+\"strcpy(cOutput, pcHttpRequestStatus)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#415 
+\"strcpy(cBuild, cIrcCommandPart)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#444 
+\"strcpy(cBuild, \"NOTICE \")\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#444 
+\"strcpy(cBuild, \"NOTICE \")\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#403 
+\"strcpy(cBuild, pcArguments)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#109 
+\"strcpy(cDownloadFromLocation, pcArguments)\"
+
+23.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#709 
+\"strcpy(cOriginalHost, pcBreakString)\"
+
+21.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#201 
+\"system(pcArguments)\"
+
+21.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#201 
+\"system(pcArguments)\"
+
+19.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protection/ConfigSetup.cpp#209 
+\"strlen(cBase64Decrypted)\"
+
+19.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protection/ConfigSetup.cpp#209 
+\"strlen(cBase64Decrypted)\"
+
+19.0: /home/D_K/BA/theZoo2/Athena/Source - Build Config Encrypt/Encryption/RC4.cpp#24 
+\"strlen(szData)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#793 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Http.cpp#566 
+\"strcpy(cReceivedPacket, cPacket)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#750 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#344 
+\"strcpy(cParsePacket, cInPacket)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#546 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#344 
+\"strcpy(cParsePacket, cInPacket)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#427 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Http.cpp#572 
+\"strcpy(cReceivedPacket, \"ERR_FAILED_TO_CONNECT\")\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Http.cpp#569 
+\"strcpy(cReceivedPacket, \"ERR_FAILED_TO_SEND\")\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/General/Botkiller.cpp#41 
+\"strcpy(cWriteThroughFilename, cFilePath)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#211 
+\"strcpy(cDecryptedA, cSource)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#427 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#368 
+\"strcpy(cParsePacket, \"ERR_FAILED_TO_SEND\")\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#446 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#793 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#38 
+\"strcpy(cFullCommand, pcCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#510 
+\"strcpy(cStoreParameter, pcCheckCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#501 
+\"strcpy(cStoreParameter, pcCheckCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Misc.cpp#430 
+\"strcpy(cUuid, (const char*)ucUuidString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#463 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/General/Botkiller.cpp#265 
+\"strcpy(cFilePath, pcCleanPath)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#137 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#569 
+\"strcpy(cReceivedPacket, \"ERR_FAILED_TO_SEND\")\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#281 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#546 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#750 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#572 
+\"strcpy(cReceivedPacket, \"ERR_FAILED_TO_CONNECT\")\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#377 
+\"strcpy(cParsePacket, \"ERR_FAILED_TO_CONNECT\")\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#93 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#249 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/IrcUtilities.cpp#117 
+\"strcpy(cSaveRawContents, cIrcRaw)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#137 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#501 
+\"strcpy(cStoreParameter, pcCheckCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#249 
+\"strcpy(cStoreParameter, pcBreakString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#510 
+\"strcpy(cStoreParameter, pcCheckCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/General/Botkiller.cpp#265 
+\"strcpy(cFilePath, pcCleanPath)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#377 
+\"strcpy(cParsePacket, \"ERR_FAILED_TO_CONNECT\")\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#93 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#566 
+\"strcpy(cReceivedPacket, cPacket)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#1201 
+\"strcpy(cStoreParameter, pcCheckCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#670 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#38 
+\"strcpy(cFullCommand, pcCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#281 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#670 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Misc.cpp#430 
+\"strcpy(cUuid, (const char*)ucUuidString)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#446 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#1201 
+\"strcpy(cStoreParameter, pcCheckCommand)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#463 
+\"strcpy(cStoreParameter, pcArguments)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Misc.cpp#473 
+\"strcpy(cUuid, cKeyValue)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Misc.cpp#473 
+\"strcpy(cUuid, cKeyValue)\"
+
+17.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#368 
+\"strcpy(cParsePacket, \"ERR_FAILED_TO_SEND\")\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#451 
+\"strlen(pcBreakString)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Dacl.cpp#32 
+\"strlen(cFilePathName)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Encryption/MD5.cpp#329 
+\"lstrlenA(szInput)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#432 
+\"strlen(pcBreakString)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#346 
+\"strlen(cParsePacket)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/ProcessStrings.cpp#130 
+\"strlen(pcString)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#5 
+\"strlen(pcScanString)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#18 
+\"strlen(pcCommand)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#451 
+\"strlen(pcBreakString)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/ProcessStrings.cpp#68 
+\"strlen(cSource)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#432 
+\"strlen(pcBreakString)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#358 
+\"strlen(cParsePacket)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#358 
+\"strlen(cParsePacket)\"
+
+15.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#346 
+\"strlen(cParsePacket)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#772 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#611 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#381 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#375 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#115 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#766 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#375 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#552 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#381 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#772 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#766 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#115 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#611 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#617 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#552 
+\"atoi(pcBreakString)\"
+
+14.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#617 
+\"atoi(pcBreakString)\"
+
+11.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Encryption/Base64_.cpp#174 
+\"strcpy(src, source)\"
+
+11.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/General/DlExecUpdate.cpp#103 
+\"strcpy(cFileToBuffer, GenRandLCText())\"
+
+11.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Http.cpp#558 
+\"strcpy(cPacket, GenerateHttpPacket(usPacketGenerationType, cHttpHost, cHttpPath, usHttpPort, cHttpData))\"
+
+11.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#558 
+\"strcpy(cPacket, GenerateHttpPacket(usPacketGenerationType, cHttpHost, cHttpPath, usHttpPort, cHttpData))\"
+
+11.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/General/DlExecUpdate.cpp#103 
+\"strcpy(cFileToBuffer, GenRandLCText())\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/General/Botkiller.cpp#267 
+\"strlen(pcCleanPath)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Http.cpp#563 
+\"strlen(cPacket)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Misc.cpp#468 
+\"strlen(cKeyValue)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#563 
+\"strlen(cPacket)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/IrcUtilities.cpp#123 
+\"strlen(pcPartOfLine)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Encryption/Base64_.cpp#171 
+\"strlen(source)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/ProcessStrings.cpp#118 
+\"strlen(pcString)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Misc.cpp#468 
+\"strlen(cKeyValue)\"
+
+9.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/General/Botkiller.cpp#267 
+\"strlen(pcCleanPath)\"
+
+
+Found 22 methods. 
+53.343283582089555: /home/D_K/BA/theZoo2/Athena/Source - Build Config Encrypt/Encryption/RC4.cpp#3 
+\"int rc4 (const char *szData,const char *szKey,char *cOutput)\"
+
+21.692307692307693: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/ProcessStrings.cpp#126 
+\"void StripDashes (char *pcString)\"
+
+20.916666666666668: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/ProcessStrings.cpp#116 
+\"char* StripReturns (char *pcString)\"
+
+19.50793650793651: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#437 
+\"bool ParseHttpLine (char *cMessage)\"
+
+19.50793650793651: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Hub/HttpUtilities.cpp#437 
+\"bool ParseHttpLine (char *cMessage)\"
+
+18.375: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/ProcessStrings.cpp#66 
+\"void strtr (char *cSource,char *cCharArrayA,char *cCharArrayB)\"
+
+18.27027027027027: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/General/Socks4.cpp#103 
+\"WINAPI fSocksClientThread (PVOID pInfo)\"
+
+18.27027027027027: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/General/Socks4.cpp#103 
+\"WINAPI fSocksClientThread (PVOID pInfo)\"
+
+18.106382978723403: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Encryption/Base64_.cpp#103 
+\"int _base64_decode_triple (char quadruple[4],unsigned char *result)\"
+
+11.285714285714286: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#3 
+\"bool HasSpaceCharacter (char *pcScanString)\"
+
+9.2: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#16 
+\"char* DecryptCommand (char *pcCommand)\"
+
+8.55813953488372: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Encryption/Base64_.cpp#163 
+\"size_t base64_decode (const char *source,char *target,size_t targetlen)\"
+
+6.019704433497537: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Protocol/Commands.cpp#33 
+\"void ParseCommand (char *pcCommand)\"
+
+6.019704433497537: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Protocol/Commands.cpp#33 
+\"void ParseCommand (char *pcCommand)\"
+
+4.166666666666667: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/ProcessStrings.cpp#51 
+\"char* FindInString (char *cFullString,char *cBefore,char *cAfter)\"
+
+3.8974358974358974: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Utilities/Misc.cpp#420 
+\"void RunThroughUuidProcedure ()\"
+
+3.8974358974358974: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Misc.cpp#420 
+\"void RunThroughUuidProcedure ()\"
+
+3.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/Hub/HttpUtilities.cpp#207 
+\"void DecryptReceivedData (char *cSource,char *cKeyA,char *cKeyB,char *cOutputData)\"
+
+2.3863636363636362: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/General/Socks4.cpp#72 
+\"void Socks4Connect (SOCKET lSock,LPSOCKS4 packet)\"
+
+2.0689655172413794: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/Utilities/Http.cpp#577 
+\"WINAPI GetWebsiteStatus (LPVOID)\"
+
+2.0: /home/D_K/BA/theZoo2/Athena/Source - Bot/Source/General/Socks4.cpp#4 
+\"void transmit (SOCKET lSock,SOCKET rSock)\"
+
+2.0: /home/D_K/BA/theZoo2/Athena/master/Source - Bot/Source/General/Socks4.cpp#4 
+\"void transmit (SOCKET lSock,SOCKET rSock)\"

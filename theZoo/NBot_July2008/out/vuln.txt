@@ -1,0 +1,35 @@
+Found 8 sink. 
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#132 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/FakeIRCD.cpp#55 
+\"strlen(tstr)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#273 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/other.cpp#45 
+\"strlen(inStr)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#1028 
+\"strlen(msgbuf)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#82 
+\"strlen(buffer)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#262 
+\"strlen(login)\"
+
+9.0: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/HoneyPot.cpp#33 
+\"strlen(buffer)\"
+
+
+Found 3 methods. 
+41.125: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/other.cpp#34 
+\"int Split (char *inStr,void *saveArray)\"
+
+10.844594594594595: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/Transfer.cpp#35 
+\"void TFTPDHandler (LPVOID dwParam)\"
+
+3.1818181818181817: /home/D_K/BA/theZoo2/NBot_July2008/NBot - July 2008/nbot.cpp#247 
+\"int irc_receiveloop (SOCKET sock,char *channel,char *chanpass,char *nick1,char *server)\"
